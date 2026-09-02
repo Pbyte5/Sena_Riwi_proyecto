@@ -1,0 +1,6999 @@
+,product_id,product_category
+0,7824,accessories
+1,5557,sports
+2,2225,electronics
+3,7855,footwear
+4,7789,sports
+5,2796,beauty
+6,6012,accessories
+7,4248,beauty
+8,3966,fashion
+9,7180,electronics
+10,4154,home decor
+11,3868,fashion
+12,2200,footwear
+13,5734,footwear
+14,4281,electronics
+15,7035,accessories
+16,1943,home decor
+17,6898,accessories
+18,1590,footwear
+19,7239,fashion
+20,2162,beauty
+21,5316,sports
+22,1487,accessories
+23,1294,sports
+24,1384,footwear
+25,5671,accessories
+26,1558,fashion
+27,6978,electronics
+28,5066,electronics
+29,6255,home decor
+30,7219,footwear
+31,7269,accessories
+32,5443,footwear
+33,4887,footwear
+34,1466,accessories
+35,4548,footwear
+36,5085,fashion
+37,7249,fashion
+38,5969,electronics
+39,5049,sports
+40,7525,fashion
+41,3273,fashion
+42,5498,beauty
+43,1087,home decor
+44,7369,footwear
+45,7111,home decor
+46,3369,beauty
+47,6983,accessories
+48,6959,electronics
+49,6228,electronics
+50,5476,home decor
+51,3996,fashion
+52,4272,fashion
+53,7518,footwear
+54,1796,electronics
+55,2094,electronics
+56,4460,accessories
+57,6279,beauty
+58,6479,sports
+59,5866,home decor
+60,7665,beauty
+61,3676,home decor
+62,3908,sports
+63,3988,sports
+64,4666,beauty
+65,5440,fashion
+66,1485,footwear
+67,4757,electronics
+68,6961,accessories
+69,4210,accessories
+70,7349,accessories
+71,2714,electronics
+72,7762,sports
+73,2490,fashion
+74,3177,fashion
+75,6749,sports
+76,5700,electronics
+77,5177,home decor
+78,5205,sports
+79,1009,fashion
+80,4767,beauty
+81,3789,sports
+82,2422,electronics
+83,1725,sports
+84,7682,beauty
+85,2493,electronics
+86,3708,accessories
+87,2438,home decor
+88,2724,fashion
+89,6247,fashion
+90,2505,fashion
+91,4525,footwear
+92,7412,footwear
+93,5519,accessories
+94,4598,footwear
+95,5826,footwear
+96,5987,sports
+97,5538,fashion
+98,7366,footwear
+99,4951,home decor
+100,1425,sports
+101,1662,home decor
+102,3879,electronics
+103,3413,home decor
+104,4170,fashion
+105,7453,beauty
+106,2543,home decor
+107,3144,sports
+108,1582,footwear
+109,6091,home decor
+110,4562,footwear
+111,5492,accessories
+112,7313,home decor
+113,2182,accessories
+114,3060,accessories
+115,2826,accessories
+116,6425,home decor
+117,1326,home decor
+118,7549,beauty
+119,5007,beauty
+120,2971,accessories
+121,4208,sports
+122,4999,fashion
+123,3530,beauty
+124,5610,electronics
+125,3068,footwear
+126,4965,home decor
+127,3296,home decor
+128,4660,sports
+129,7496,beauty
+130,3979,electronics
+131,3313,home decor
+132,2763,fashion
+133,5497,electronics
+134,2758,home decor
+135,3796,footwear
+136,6376,sports
+137,1926,fashion
+138,4993,footwear
+139,1549,sports
+140,7838,sports
+141,7731,beauty
+142,2962,electronics
+143,2066,footwear
+144,1955,accessories
+145,3873,beauty
+146,2739,fashion
+147,4076,sports
+148,6161,beauty
+149,4515,fashion
+150,7027,footwear
+151,4469,electronics
+152,1565,beauty
+153,2058,footwear
+154,3427,home decor
+155,1528,home decor
+156,5482,accessories
+157,7216,footwear
+158,7075,footwear
+159,5038,footwear
+160,5415,footwear
+161,3899,electronics
+162,2980,electronics
+163,4069,fashion
+164,2355,electronics
+165,3054,sports
+166,2500,sports
+167,3933,footwear
+168,5413,sports
+169,4705,sports
+170,4089,electronics
+171,4841,electronics
+172,1687,fashion
+173,5106,home decor
+174,2817,footwear
+175,6757,home decor
+176,6266,fashion
+177,1954,electronics
+178,5837,electronics
+179,6715,fashion
+180,4589,electronics
+181,5216,beauty
+182,2088,electronics
+183,3355,footwear
+184,1769,electronics
+185,4301,fashion
+186,3088,home decor
+187,4901,electronics
+188,6207,beauty
+189,7888,footwear
+190,3853,footwear
+191,7874,beauty
+192,6405,beauty
+193,3173,beauty
+194,5744,sports
+195,1612,footwear
+196,3319,home decor
+197,2883,sports
+198,1843,footwear
+199,5088,footwear
+200,2948,footwear
+201,6490,footwear
+202,7834,footwear
+203,1212,electronics
+204,1656,electronics
+205,4744,sports
+206,6921,footwear
+207,2113,home decor
+208,7645,footwear
+209,1913,accessories
+210,2637,accessories
+211,2624,home decor
+212,7066,accessories
+213,1225,home decor
+214,5731,sports
+215,5145,fashion
+216,5655,electronics
+217,6420,footwear
+218,3126,sports
+219,6974,sports
+220,2580,accessories
+221,1837,footwear
+222,1870,home decor
+223,4873,sports
+224,2978,sports
+225,5729,beauty
+226,7590,home decor
+227,2622,fashion
+228,4662,electronics
+229,6761,fashion
+230,7949,home decor
+231,5952,fashion
+232,6099,sports
+233,4911,fashion
+234,4643,beauty
+235,3634,home decor
+236,1540,footwear
+237,5155,footwear
+238,6188,sports
+239,6796,fashion
+240,5691,sports
+241,5875,footwear
+242,6118,footwear
+243,1340,beauty
+244,2700,sports
+245,2721,electronics
+246,3614,accessories
+247,2393,accessories
+248,2556,beauty
+249,6595,beauty
+250,4956,home decor
+251,7535,home decor
+252,2374,electronics
+253,4906,sports
+254,6306,electronics
+255,7268,fashion
+256,5014,fashion
+257,5436,home decor
+258,3745,electronics
+259,1624,electronics
+260,5249,accessories
+261,2548,home decor
+262,4585,footwear
+263,1240,fashion
+264,3208,home decor
+265,7174,home decor
+266,2600,sports
+267,7325,sports
+268,5710,home decor
+269,7772,home decor
+270,7286,electronics
+271,6459,sports
+272,2203,sports
+273,4398,beauty
+274,1099,home decor
+275,2194,accessories
+276,6899,beauty
+277,7660,home decor
+278,7122,footwear
+279,2157,accessories
+280,4588,accessories
+281,5524,sports
+282,5646,footwear
+283,1238,electronics
+284,7981,accessories
+285,5853,home decor
+286,4461,footwear
+287,2866,home decor
+288,2498,home decor
+289,7671,beauty
+290,5972,beauty
+291,3005,home decor
+292,5255,electronics
+293,2304,fashion
+294,6969,fashion
+295,5178,sports
+296,4549,electronics
+297,6666,sports
+298,2709,footwear
+299,2983,home decor
+300,7965,home decor
+301,5122,sports
+302,3513,home decor
+303,2036,electronics
+304,2899,footwear
+305,3462,beauty
+306,3498,sports
+307,5126,sports
+308,7359,beauty
+309,1189,footwear
+310,6412,fashion
+311,3709,beauty
+312,2376,beauty
+313,4756,sports
+314,3917,accessories
+315,7205,home decor
+316,2641,beauty
+317,1205,accessories
+318,4195,sports
+319,3574,beauty
+320,3551,electronics
+321,5892,home decor
+322,5633,sports
+323,3837,electronics
+324,6763,electronics
+325,3744,sports
+326,4140,sports
+327,3075,accessories
+328,3174,electronics
+329,2520,sports
+330,3594,electronics
+331,5511,fashion
+332,3221,home decor
+333,4351,fashion
+334,6213,accessories
+335,5424,electronics
+336,1894,accessories
+337,2711,sports
+338,3997,beauty
+339,6269,sports
+340,5964,sports
+341,7358,electronics
+342,6596,electronics
+343,6240,footwear
+344,5044,home decor
+345,4423,accessories
+346,5921,electronics
+347,4179,home decor
+348,4273,footwear
+349,2706,beauty
+350,7511,beauty
+351,2413,accessories
+352,6844,beauty
+353,7018,fashion
+354,1596,beauty
+355,4795,home decor
+356,3417,electronics
+357,3730,beauty
+358,6409,beauty
+359,5354,accessories
+360,6292,accessories
+361,2836,home decor
+362,4175,sports
+363,5478,sports
+364,5772,fashion
+365,5916,beauty
+366,7532,home decor
+367,5913,home decor
+368,7090,electronics
+369,1959,home decor
+370,5207,home decor
+371,1007,footwear
+372,4112,beauty
+373,3558,home decor
+374,6141,accessories
+375,7751,fashion
+376,1794,sports
+377,5153,beauty
+378,7302,sports
+379,5666,beauty
+380,2795,sports
+381,4502,accessories
+382,7246,fashion
+383,6853,sports
+384,6492,home decor
+385,4424,electronics
+386,1862,footwear
+387,5923,electronics
+388,3520,accessories
+389,7135,accessories
+390,3297,fashion
+391,5080,accessories
+392,1574,electronics
+393,6008,fashion
+394,7904,fashion
+395,7238,accessories
+396,7755,electronics
+397,6485,accessories
+398,2770,sports
+399,5112,sports
+400,3953,sports
+401,7258,sports
+402,5399,electronics
+403,5501,accessories
+404,7463,fashion
+405,6854,beauty
+406,5509,fashion
+407,7130,fashion
+408,4859,beauty
+409,6645,home decor
+410,3318,home decor
+411,6884,sports
+412,7442,accessories
+413,5408,electronics
+414,6556,footwear
+415,7439,footwear
+416,6214,beauty
+417,6348,footwear
+418,1918,footwear
+419,5459,home decor
+420,6113,electronics
+421,3765,footwear
+422,7365,home decor
+423,4311,accessories
+424,5295,fashion
+425,5075,fashion
+426,3590,fashion
+427,6391,fashion
+428,3101,fashion
+429,5966,sports
+430,6527,sports
+431,5628,sports
+432,1327,beauty
+433,5421,beauty
+434,4213,sports
+435,1630,home decor
+436,6789,electronics
+437,5358,accessories
+438,7403,accessories
+439,6496,home decor
+440,2816,sports
+441,7040,electronics
+442,2426,sports
+443,4242,sports
+444,3397,footwear
+445,6916,accessories
+446,5578,accessories
+447,5768,accessories
+448,6927,beauty
+449,6629,accessories
+450,5566,home decor
+451,2727,footwear
+452,1100,home decor
+453,7774,beauty
+454,5393,accessories
+455,6939,sports
+456,5445,beauty
+457,7991,footwear
+458,1800,sports
+459,5442,footwear
+460,4465,beauty
+461,1062,home decor
+462,5093,fashion
+463,2491,electronics
+464,5238,sports
+465,6861,sports
+466,2294,sports
+467,7974,fashion
+468,1942,beauty
+469,5496,home decor
+470,2277,footwear
+471,4376,footwear
+472,7644,accessories
+473,4293,sports
+474,4737,footwear
+475,2903,accessories
+476,3392,home decor
+477,2452,electronics
+478,6072,fashion
+479,1437,electronics
+480,4066,footwear
+481,6696,beauty
+482,2009,accessories
+483,4134,footwear
+484,7681,fashion
+485,4778,fashion
+486,2268,footwear
+487,5154,beauty
+488,2657,accessories
+489,5394,home decor
+490,2143,electronics
+491,3186,sports
+492,7574,beauty
+493,1923,fashion
+494,4867,fashion
+495,5317,footwear
+496,1418,beauty
+497,3438,accessories
+498,6216,fashion
+499,4055,footwear
+500,4610,beauty
+501,1092,accessories
+502,3970,fashion
+503,2897,sports
+504,2118,fashion
+505,7318,fashion
+506,5740,footwear
+507,7692,sports
+508,4092,fashion
+509,6465,footwear
+510,3677,fashion
+511,6354,sports
+512,4881,electronics
+513,2342,fashion
+514,5438,electronics
+515,3175,sports
+516,6298,accessories
+517,3466,fashion
+518,1393,fashion
+519,6728,footwear
+520,4871,electronics
+521,3281,accessories
+522,5132,electronics
+523,7614,accessories
+524,7080,accessories
+525,3576,fashion
+526,1365,accessories
+527,7691,sports
+528,5250,footwear
+529,1047,electronics
+530,7310,electronics
+531,7565,footwear
+532,1909,fashion
+533,2475,accessories
+534,3015,beauty
+535,6588,footwear
+536,6930,electronics
+537,2649,electronics
+538,2409,fashion
+539,3937,fashion
+540,4160,accessories
+541,1421,sports
+542,5794,home decor
+543,3735,accessories
+544,3381,sports
+545,3219,home decor
+546,6650,beauty
+547,6003,fashion
+548,3107,beauty
+549,6790,sports
+550,7689,accessories
+551,6014,beauty
+552,3504,beauty
+553,6903,beauty
+554,5823,footwear
+555,1286,accessories
+556,2974,fashion
+557,2908,electronics
+558,6289,home decor
+559,4350,sports
+560,2701,sports
+561,3915,electronics
+562,6471,fashion
+563,4583,sports
+564,4317,home decor
+565,6369,sports
+566,2406,accessories
+567,1509,fashion
+568,7632,footwear
+569,1921,footwear
+570,6378,fashion
+571,4072,fashion
+572,2996,electronics
+573,7362,sports
+574,2457,fashion
+575,3586,beauty
+576,5395,accessories
+577,7485,beauty
+578,1714,home decor
+579,4726,beauty
+580,2117,home decor
+581,6329,electronics
+582,5139,electronics
+583,1471,accessories
+584,2375,accessories
+585,3261,beauty
+586,4268,sports
+587,5420,fashion
+588,2685,fashion
+589,1880,sports
+590,5018,home decor
+591,6525,home decor
+592,6510,fashion
+593,5657,footwear
+594,2276,beauty
+595,7069,sports
+596,3772,footwear
+597,7114,electronics
+598,4913,electronics
+599,7769,fashion
+600,7795,footwear
+601,4005,fashion
+602,4428,accessories
+603,1726,fashion
+604,1716,footwear
+605,6698,sports
+606,7085,accessories
+607,2629,sports
+608,4624,sports
+609,7850,sports
+610,1385,footwear
+611,2848,sports
+612,2338,home decor
+613,7045,electronics
+614,1188,beauty
+615,5955,home decor
+616,4760,electronics
+617,1688,home decor
+618,3791,footwear
+619,3017,accessories
+620,3910,beauty
+621,1144,sports
+622,7856,footwear
+623,1531,sports
+624,2356,home decor
+625,3010,electronics
+626,3171,footwear
+627,6891,fashion
+628,2626,accessories
+629,7215,electronics
+630,1447,footwear
+631,3696,home decor
+632,1724,sports
+633,1802,footwear
+634,7524,home decor
+635,1155,home decor
+636,7810,electronics
+637,7321,fashion
+638,6804,accessories
+639,6601,accessories
+640,1269,home decor
+641,4612,fashion
+642,7253,footwear
+643,1315,accessories
+644,6276,footwear
+645,5152,home decor
+646,5341,home decor
+647,7008,accessories
+648,1828,fashion
+649,5308,electronics
+650,4771,sports
+651,5208,footwear
+652,1321,sports
+653,6170,fashion
+654,1521,sports
+655,3903,home decor
+656,4674,accessories
+657,1050,footwear
+658,3290,sports
+659,1351,accessories
+660,5588,sports
+661,4030,home decor
+662,3483,home decor
+663,3283,home decor
+664,4811,sports
+665,3360,beauty
+666,3900,beauty
+667,1853,electronics
+668,5822,accessories
+669,4083,footwear
+670,5556,sports
+671,7945,beauty
+672,6592,accessories
+673,3497,footwear
+674,5520,accessories
+675,7652,beauty
+676,5789,electronics
+677,4959,accessories
+678,7494,sports
+679,1975,home decor
+680,3509,electronics
+681,6984,home decor
+682,2798,fashion
+683,2957,electronics
+684,3835,sports
+685,1899,accessories
+686,1010,sports
+687,5869,beauty
+688,1241,footwear
+689,3694,footwear
+690,3077,fashion
+691,1539,beauty
+692,3405,beauty
+693,2762,sports
+694,4639,electronics
+695,2152,home decor
+696,3391,accessories
+697,4387,fashion
+698,1431,accessories
+699,1027,beauty
+700,1182,accessories
+701,7480,home decor
+702,3135,accessories
+703,5894,beauty
+704,4987,footwear
+705,2466,footwear
+706,6660,fashion
+707,2869,footwear
+708,3473,beauty
+709,5799,home decor
+710,4963,footwear
+711,1665,beauty
+712,6608,home decor
+713,4967,footwear
+714,1235,accessories
+715,6775,beauty
+716,2443,sports
+717,6404,home decor
+718,4418,accessories
+719,4679,footwear
+720,1410,electronics
+721,1266,footwear
+722,7828,fashion
+723,4271,electronics
+724,3999,home decor
+725,3736,home decor
+726,7964,electronics
+727,3410,footwear
+728,3371,footwear
+729,6555,fashion
+730,2144,fashion
+731,4275,accessories
+732,5767,accessories
+733,3234,electronics
+734,7859,sports
+735,5850,sports
+736,6823,beauty
+737,7967,electronics
+738,1920,footwear
+739,2751,home decor
+740,5179,sports
+741,5401,electronics
+742,5329,home decor
+743,2030,beauty
+744,5722,home decor
+745,5613,electronics
+746,5306,home decor
+747,2587,electronics
+748,7801,footwear
+749,3794,fashion
+750,1622,beauty
+751,6385,sports
+752,2878,home decor
+753,5116,accessories
+754,2006,beauty
+755,7005,beauty
+756,4724,home decor
+757,5033,sports
+758,3301,sports
+759,6697,home decor
+760,3850,home decor
+761,3927,fashion
+762,3145,footwear
+763,1232,beauty
+764,5553,electronics
+765,6912,accessories
+766,6271,footwear
+767,6076,sports
+768,4564,accessories
+769,6926,electronics
+770,1737,footwear
+771,4609,home decor
+772,5862,accessories
+773,6929,electronics
+774,3854,sports
+775,4652,sports
+776,2861,beauty
+777,4935,fashion
+778,6416,fashion
+779,7815,accessories
+780,7663,accessories
+781,7161,home decor
+782,5793,sports
+783,4957,electronics
+784,3688,footwear
+785,6783,beauty
+786,3222,electronics
+787,1848,beauty
+788,3622,sports
+789,1025,fashion
+790,1113,electronics
+791,6341,fashion
+792,6220,sports
+793,4494,electronics
+794,7166,sports
+795,5441,home decor
+796,2028,electronics
+797,5109,footwear
+798,2122,footwear
+799,5351,fashion
+800,1735,beauty
+801,5547,fashion
+802,1533,home decor
+803,6664,beauty
+804,4852,home decor
+805,1429,footwear
+806,5296,home decor
+807,1953,electronics
+808,7251,home decor
+809,5507,accessories
+810,5224,sports
+811,3950,electronics
+812,4472,beauty
+813,4531,sports
+814,4382,sports
+815,2982,electronics
+816,3166,beauty
+817,2244,fashion
+818,6943,sports
+819,2612,sports
+820,5212,footwear
+821,4127,footwear
+822,6865,sports
+823,5220,accessories
+824,7168,fashion
+825,5503,beauty
+826,6004,accessories
+827,7236,footwear
+828,7301,accessories
+829,2242,fashion
+830,4590,home decor
+831,5236,fashion
+832,6730,accessories
+833,1709,footwear
+834,2557,beauty
+835,1826,electronics
+836,3445,accessories
+837,6649,fashion
+838,6167,sports
+839,4110,home decor
+840,5260,sports
+841,5543,accessories
+842,3929,footwear
+843,1492,accessories
+844,5541,beauty
+845,5763,fashion
+846,7026,beauty
+847,7683,sports
+848,6335,accessories
+849,6150,fashion
+850,7640,electronics
+851,2279,beauty
+852,4255,beauty
+853,5508,footwear
+854,1900,beauty
+855,2654,accessories
+856,2916,home decor
+857,3476,sports
+858,4656,beauty
+859,7558,home decor
+860,5986,beauty
+861,3703,footwear
+862,6075,beauty
+863,3768,fashion
+864,6311,beauty
+865,7449,fashion
+866,5242,home decor
+867,6162,fashion
+868,3020,electronics
+869,1364,footwear
+870,6722,home decor
+871,6454,sports
+872,6300,footwear
+873,4246,footwear
+874,1056,fashion
+875,3312,fashion
+876,1654,fashion
+877,3795,accessories
+878,2562,sports
+879,2196,accessories
+880,3036,footwear
+881,5101,sports
+882,4622,beauty
+883,3063,accessories
+884,5863,home decor
+885,7962,footwear
+886,4868,footwear
+887,3272,electronics
+888,2105,footwear
+889,5352,beauty
+890,5997,fashion
+891,4603,sports
+892,4173,beauty
+893,7225,footwear
+894,1637,beauty
+895,4014,home decor
+896,5644,accessories
+897,6583,accessories
+898,1461,beauty
+899,4021,accessories
+900,6507,sports
+901,7797,footwear
+902,7208,accessories
+903,6431,beauty
+904,5000,beauty
+905,2370,electronics
+906,7905,sports
+907,3425,sports
+908,4475,electronics
+909,3437,electronics
+910,4968,fashion
+911,1520,accessories
+912,5150,home decor
+913,5127,accessories
+914,3912,sports
+915,3577,sports
+916,3852,electronics
+917,4262,beauty
+918,3834,fashion
+919,5448,accessories
+920,7276,sports
+921,3187,accessories
+922,7592,electronics
+923,3245,accessories
+924,6328,fashion
+925,1391,sports
+926,7788,beauty
+927,2819,home decor
+928,6582,accessories
+929,6947,beauty
+930,2115,accessories
+931,1343,home decor
+932,7233,sports
+933,6191,home decor
+934,1354,home decor
+935,4151,accessories
+936,7726,accessories
+937,5624,footwear
+938,3610,electronics
+939,4510,sports
+940,6218,footwear
+941,6439,sports
+942,7842,beauty
+943,3630,home decor
+944,1834,sports
+945,1017,accessories
+946,6786,fashion
+947,4280,sports
+948,1159,beauty
+949,5170,accessories
+950,4787,home decor
+951,1675,footwear
+952,1075,home decor
+953,4386,footwear
+954,3259,beauty
+955,4753,beauty
+956,1322,home decor
+957,7430,electronics
+958,7739,sports
+959,5839,sports
+960,7506,accessories
+961,7830,home decor
+962,5343,footwear
+963,1681,fashion
+964,1138,sports
+965,6868,sports
+966,3216,footwear
+967,5899,footwear
+968,5730,sports
+969,4159,electronics
+970,6627,beauty
+971,6518,footwear
+972,3872,home decor
+973,1284,footwear
+974,3874,home decor
+975,1296,fashion
+976,3901,beauty
+977,5136,electronics
+978,3298,accessories
+979,3295,fashion
+980,2405,fashion
+981,5051,sports
+982,4946,sports
+983,7054,footwear
+984,2742,sports
+985,4203,home decor
+986,1755,sports
+987,3078,footwear
+988,5828,beauty
+989,2821,fashion
+990,7588,beauty
+991,7596,home decor
+992,4676,home decor
+993,2480,fashion
+994,4341,electronics
+995,5599,fashion
+996,6163,home decor
+997,7673,accessories
+998,2968,home decor
+999,4664,accessories
+1000,1441,sports
+1001,2788,accessories
+1002,6957,electronics
+1003,6396,accessories
+1004,6880,beauty
+1005,7837,sports
+1006,3857,fashion
+1007,7507,home decor
+1008,1347,electronics
+1009,3660,accessories
+1010,1812,footwear
+1011,1532,fashion
+1012,5032,home decor
+1013,7440,electronics
+1014,2603,beauty
+1015,4812,electronics
+1016,7892,home decor
+1017,4183,beauty
+1018,6765,fashion
+1019,4136,electronics
+1020,3787,fashion
+1021,1253,sports
+1022,6353,beauty
+1023,3978,accessories
+1024,3155,footwear
+1025,1063,home decor
+1026,5311,beauty
+1027,3646,home decor
+1028,1089,accessories
+1029,1545,sports
+1030,6364,electronics
+1031,7579,sports
+1032,6911,footwear
+1033,7653,footwear
+1034,6797,footwear
+1035,2888,home decor
+1036,5535,footwear
+1037,4088,beauty
+1038,5576,accessories
+1039,7379,home decor
+1040,5750,footwear
+1041,7498,fashion
+1042,6477,sports
+1043,5844,beauty
+1044,2250,accessories
+1045,6663,fashion
+1046,7545,accessories
+1047,6230,accessories
+1048,2273,fashion
+1049,2167,beauty
+1050,4928,electronics
+1051,7404,home decor
+1052,4215,accessories
+1053,1107,sports
+1054,6455,beauty
+1055,1522,accessories
+1056,4522,home decor
+1057,4892,home decor
+1058,6435,home decor
+1059,3255,sports
+1060,1518,home decor
+1061,1731,accessories
+1062,4954,fashion
+1063,2890,fashion
+1064,1030,accessories
+1065,2256,beauty
+1066,4018,accessories
+1067,1064,sports
+1068,1060,fashion
+1069,5792,home decor
+1070,1093,fashion
+1071,4677,electronics
+1072,2824,home decor
+1073,3505,electronics
+1074,2206,fashion
+1075,2003,sports
+1076,6869,fashion
+1077,1298,footwear
+1078,7083,home decor
+1079,1617,fashion
+1080,7263,accessories
+1081,1496,fashion
+1082,4685,sports
+1083,1222,beauty
+1084,6380,home decor
+1085,3366,fashion
+1086,3004,sports
+1087,5945,beauty
+1088,2155,electronics
+1089,3993,home decor
+1090,2683,accessories
+1091,6685,electronics
+1092,7382,accessories
+1093,1076,accessories
+1094,5258,home decor
+1095,1416,sports
+1096,7948,beauty
+1097,3275,electronics
+1098,5232,footwear
+1099,1537,sports
+1100,7296,fashion
+1101,7231,beauty
+1102,4741,footwear
+1103,7697,accessories
+1104,4147,home decor
+1105,1250,accessories
+1106,4470,accessories
+1107,7867,fashion
+1108,4802,beauty
+1109,6212,electronics
+1110,7465,fashion
+1111,2634,beauty
+1112,5873,footwear
+1113,6273,home decor
+1114,5513,electronics
+1115,6184,accessories
+1116,5291,fashion
+1117,4986,beauty
+1118,2325,fashion
+1119,1360,accessories
+1120,4410,footwear
+1121,6368,home decor
+1122,3131,sports
+1123,1247,fashion
+1124,6305,beauty
+1125,4905,beauty
+1126,6990,sports
+1127,3517,sports
+1128,6973,sports
+1129,7347,accessories
+1130,4821,accessories
+1131,7125,home decor
+1132,2163,footwear
+1133,6807,sports
+1134,2645,sports
+1135,6108,electronics
+1136,7622,fashion
+1137,2140,home decor
+1138,1827,home decor
+1139,3403,footwear
+1140,5315,footwear
+1141,5096,beauty
+1142,6257,beauty
+1143,2238,fashion
+1144,2442,fashion
+1145,5046,home decor
+1146,7708,beauty
+1147,2404,accessories
+1148,1940,beauty
+1149,5743,footwear
+1150,6633,sports
+1151,2427,electronics
+1152,5970,beauty
+1153,6148,beauty
+1154,6950,electronics
+1155,7017,sports
+1156,4111,fashion
+1157,3984,fashion
+1158,5011,sports
+1159,7271,accessories
+1160,4506,sports
+1161,6097,electronics
+1162,1249,electronics
+1163,5087,footwear
+1164,1295,sports
+1165,6738,home decor
+1166,3196,home decor
+1167,3510,home decor
+1168,5925,electronics
+1169,1288,footwear
+1170,7384,footwear
+1171,3251,beauty
+1172,5893,accessories
+1173,1195,sports
+1174,2574,footwear
+1175,1650,beauty
+1176,5715,fashion
+1177,2489,home decor
+1178,2485,footwear
+1179,7798,accessories
+1180,1560,home decor
+1181,1214,beauty
+1182,6602,fashion
+1183,1196,home decor
+1184,2984,beauty
+1185,5313,accessories
+1186,3185,footwear
+1187,7734,accessories
+1188,4551,electronics
+1189,6676,beauty
+1190,3383,home decor
+1191,3569,accessories
+1192,4425,home decor
+1193,4943,beauty
+1194,7521,electronics
+1195,7541,electronics
+1196,5625,sports
+1197,3485,fashion
+1198,5446,beauty
+1199,7763,home decor
+1200,3619,home decor
+1201,3385,home decor
+1202,4300,fashion
+1203,1911,footwear
+1204,5325,accessories
+1205,2584,fashion
+1206,1359,beauty
+1207,3695,beauty
+1208,7994,footwear
+1209,1631,sports
+1210,5414,fashion
+1211,1454,sports
+1212,7202,sports
+1213,4900,footwear
+1214,1944,home decor
+1215,4325,sports
+1216,1786,home decor
+1217,4128,sports
+1218,2020,sports
+1219,2473,home decor
+1220,5650,sports
+1221,6272,footwear
+1222,7937,sports
+1223,7603,accessories
+1224,4860,fashion
+1225,3074,beauty
+1226,2271,fashion
+1227,6290,sports
+1228,4010,home decor
+1229,2205,accessories
+1230,7078,accessories
+1231,7473,footwear
+1232,2804,footwear
+1233,3322,beauty
+1234,5958,accessories
+1235,4020,footwear
+1236,5723,fashion
+1237,3253,sports
+1238,6177,home decor
+1239,6151,home decor
+1240,6680,beauty
+1241,3661,beauty
+1242,2892,home decor
+1243,6773,footwear
+1244,2069,home decor
+1245,6988,footwear
+1246,3651,sports
+1247,4260,electronics
+1248,2555,accessories
+1249,6784,home decor
+1250,4530,sports
+1251,1026,accessories
+1252,5932,beauty
+1253,6874,fashion
+1254,2774,accessories
+1255,4120,footwear
+1256,1130,footwear
+1257,2988,electronics
+1258,2159,accessories
+1259,6686,sports
+1260,5832,fashion
+1261,5045,sports
+1262,5766,fashion
+1263,7919,sports
+1264,3368,sports
+1265,3418,accessories
+1266,1486,footwear
+1267,6252,beauty
+1268,6153,sports
+1269,5846,footwear
+1270,7144,home decor
+1271,4081,footwear
+1272,3021,sports
+1273,5941,footwear
+1274,6639,home decor
+1275,4736,fashion
+1276,5529,sports
+1277,3364,beauty
+1278,3596,electronics
+1279,6332,footwear
+1280,6229,electronics
+1281,5009,fashion
+1282,4572,electronics
+1283,5094,beauty
+1284,7594,footwear
+1285,5575,beauty
+1286,2213,electronics
+1287,1645,footwear
+1288,2074,electronics
+1289,3446,sports
+1290,6537,beauty
+1291,6037,footwear
+1292,3797,electronics
+1293,1252,beauty
+1294,2745,beauty
+1295,5760,footwear
+1296,7845,sports
+1297,3582,electronics
+1298,7048,fashion
+1299,2981,fashion
+1300,6146,fashion
+1301,3026,electronics
+1302,5252,footwear
+1303,7702,fashion
+1304,7992,electronics
+1305,4644,home decor
+1306,6910,footwear
+1307,6433,beauty
+1308,3739,footwear
+1309,4217,footwear
+1310,3091,accessories
+1311,3227,footwear
+1312,7487,electronics
+1313,2994,beauty
+1314,1044,beauty
+1315,3887,accessories
+1316,2219,footwear
+1317,7957,beauty
+1318,5695,sports
+1319,7448,home decor
+1320,2153,electronics
+1321,4922,footwear
+1322,7129,sports
+1323,4033,footwear
+1324,6463,fashion
+1325,1958,footwear
+1326,6033,sports
+1327,2595,home decor
+1328,3362,fashion
+1329,3024,sports
+1330,6568,accessories
+1331,7012,electronics
+1332,4487,sports
+1333,3479,home decor
+1334,7908,fashion
+1335,7039,fashion
+1336,4303,fashion
+1337,5594,accessories
+1338,5215,footwear
+1339,5769,sports
+1340,6809,electronics
+1341,4027,footwear
+1342,4798,home decor
+1343,5699,home decor
+1344,4123,home decor
+1345,4665,sports
+1346,6693,beauty
+1347,4444,electronics
+1348,2532,accessories
+1349,5397,fashion
+1350,3598,beauty
+1351,4000,electronics
+1352,6915,accessories
+1353,7820,footwear
+1354,5953,beauty
+1355,4290,electronics
+1356,5286,accessories
+1357,4962,home decor
+1358,7554,sports
+1359,7700,beauty
+1360,2914,fashion
+1361,1398,home decor
+1362,5975,electronics
+1363,4980,footwear
+1364,1085,sports
+1365,3710,accessories
+1366,2598,home decor
+1367,6733,home decor
+1368,3759,home decor
+1369,5036,sports
+1370,4750,footwear
+1371,6181,accessories
+1372,3814,sports
+1373,7006,beauty
+1374,1866,sports
+1375,1693,sports
+1376,7376,accessories
+1377,4405,accessories
+1378,7273,footwear
+1379,7392,fashion
+1380,5041,accessories
+1381,7977,fashion
+1382,7444,footwear
+1383,4794,beauty
+1384,4820,beauty
+1385,7918,electronics
+1386,2430,accessories
+1387,7716,accessories
+1388,5523,sports
+1389,1738,beauty
+1390,4998,sports
+1391,4488,fashion
+1392,5876,electronics
+1393,5833,fashion
+1394,5114,footwear
+1395,5819,fashion
+1396,5802,footwear
+1397,6714,fashion
+1398,6038,home decor
+1399,2566,fashion
+1400,3089,sports
+1401,5362,accessories
+1402,3286,fashion
+1403,4914,accessories
+1404,4536,home decor
+1405,4937,electronics
+1406,1369,accessories
+1407,1712,beauty
+1408,3470,electronics
+1409,4561,footwear
+1410,2366,accessories
+1411,4916,electronics
+1412,3721,electronics
+1413,1937,fashion
+1414,7906,beauty
+1415,5816,sports
+1416,5783,footwear
+1417,6739,electronics
+1418,2934,accessories
+1419,2310,fashion
+1420,5142,accessories
+1421,5143,home decor
+1422,2324,electronics
+1423,6297,accessories
+1424,3083,home decor
+1425,1409,fashion
+1426,5659,electronics
+1427,2303,electronics
+1428,4333,home decor
+1429,4910,beauty
+1430,6427,electronics
+1431,5123,accessories
+1432,3092,beauty
+1433,3637,beauty
+1434,4540,beauty
+1435,7305,footwear
+1436,4526,electronics
+1437,7388,beauty
+1438,5886,electronics
+1439,1128,footwear
+1440,2939,home decor
+1441,5193,sports
+1442,3741,beauty
+1443,2137,fashion
+1444,5804,electronics
+1445,3263,electronics
+1446,4915,sports
+1447,3881,fashion
+1448,3188,beauty
+1449,3782,sports
+1450,6677,beauty
+1451,2399,fashion
+1452,2576,fashion
+1453,6847,electronics
+1454,2536,home decor
+1455,4336,footwear
+1456,6086,footwear
+1457,7330,sports
+1458,5183,footwear
+1459,6657,home decor
+1460,7694,home decor
+1461,1821,footwear
+1462,2396,beauty
+1463,5245,beauty
+1464,2760,footwear
+1465,5040,beauty
+1466,7030,beauty
+1467,5565,electronics
+1468,7607,fashion
+1469,4426,accessories
+1470,2392,accessories
+1471,2743,fashion
+1472,1401,fashion
+1473,5204,home decor
+1474,4889,electronics
+1475,2936,electronics
+1476,3046,sports
+1477,7915,footwear
+1478,5163,beauty
+1479,7068,beauty
+1480,1766,accessories
+1481,3691,electronics
+1482,6132,footwear
+1483,5273,accessories
+1484,7199,accessories
+1485,4909,accessories
+1486,4396,footwear
+1487,7198,electronics
+1488,7944,accessories
+1489,6061,footwear
+1490,7561,fashion
+1491,1580,accessories
+1492,3617,beauty
+1493,7947,beauty
+1494,3907,fashion
+1495,1134,beauty
+1496,3104,footwear
+1497,4720,sports
+1498,3841,footwear
+1499,6430,footwear
+1500,2558,electronics
+1501,7839,beauty
+1502,3201,sports
+1503,7771,home decor
+1504,2610,footwear
+1505,7576,electronics
+1506,3636,footwear
+1507,1986,fashion
+1508,6569,beauty
+1509,5367,footwear
+1510,2010,home decor
+1511,3655,home decor
+1512,6078,sports
+1513,6371,electronics
+1514,4144,accessories
+1515,5063,accessories
+1516,2667,footwear
+1517,1809,beauty
+1518,2519,electronics
+1519,3697,electronics
+1520,4971,beauty
+1521,1219,fashion
+1522,5797,footwear
+1523,4211,beauty
+1524,6671,beauty
+1525,4028,fashion
+1526,5908,fashion
+1527,1993,accessories
+1528,6553,accessories
+1529,6058,beauty
+1530,6509,sports
+1531,6440,beauty
+1532,1523,accessories
+1533,4155,footwear
+1534,5259,footwear
+1535,5527,beauty
+1536,3990,electronics
+1537,6890,footwear
+1538,7833,footwear
+1539,3994,electronics
+1540,7316,fashion
+1541,1749,electronics
+1542,2351,home decor
+1543,6258,beauty
+1544,4947,beauty
+1545,4511,beauty
+1546,2920,fashion
+1547,7685,accessories
+1548,3067,accessories
+1549,5363,footwear
+1550,1806,sports
+1551,4137,sports
+1552,6334,electronics
+1553,5985,sports
+1554,6066,electronics
+1555,2292,footwear
+1556,3877,fashion
+1557,6274,electronics
+1558,6002,beauty
+1559,6149,fashion
+1560,5736,fashion
+1561,7291,electronics
+1562,4725,electronics
+1563,3895,electronics
+1564,2170,beauty
+1565,4365,beauty
+1566,7169,home decor
+1567,2123,accessories
+1568,3579,footwear
+1569,4432,electronics
+1570,2688,home decor
+1571,3670,fashion
+1572,6223,fashion
+1573,6530,accessories
+1574,5735,fashion
+1575,6140,electronics
+1576,7028,fashion
+1577,5166,fashion
+1578,2676,beauty
+1579,1751,electronics
+1580,3647,footwear
+1581,1367,footwear
+1582,5247,footwear
+1583,6158,electronics
+1584,6827,sports
+1585,1083,sports
+1586,6324,beauty
+1587,5664,sports
+1588,5411,fashion
+1589,1820,home decor
+1590,5061,electronics
+1591,7077,electronics
+1592,6196,beauty
+1593,5517,home decor
+1594,5409,sports
+1595,5982,accessories
+1596,6996,fashion
+1597,4981,fashion
+1598,2591,accessories
+1599,2192,beauty
+1600,7730,electronics
+1601,3559,fashion
+1602,1143,footwear
+1603,7475,fashion
+1604,4856,sports
+1605,6278,home decor
+1606,3955,accessories
+1607,2927,home decor
+1608,3198,home decor
+1609,1967,fashion
+1610,4050,home decor
+1611,6572,fashion
+1612,7953,footwear
+1613,5376,sports
+1614,1607,beauty
+1615,5687,beauty
+1616,6194,electronics
+1617,7807,beauty
+1618,7760,accessories
+1619,1599,electronics
+1620,5533,home decor
+1621,6542,fashion
+1622,3428,fashion
+1623,1045,fashion
+1624,4501,fashion
+1625,1917,accessories
+1626,5433,beauty
+1627,3512,fashion
+1628,5672,sports
+1629,4723,footwear
+1630,2110,beauty
+1631,3400,home decor
+1632,1267,home decor
+1633,2382,beauty
+1634,1234,sports
+1635,4476,accessories
+1636,4196,fashion
+1637,2800,accessories
+1638,7654,home decor
+1639,5726,electronics
+1640,1795,sports
+1641,7353,footwear
+1642,6617,home decor
+1643,5896,fashion
+1644,7975,accessories
+1645,3454,beauty
+1646,1576,fashion
+1647,4894,electronics
+1648,3239,accessories
+1649,3450,footwear
+1650,6123,sports
+1651,7150,sports
+1652,6532,electronics
+1653,1623,accessories
+1654,6606,home decor
+1655,5938,beauty
+1656,3823,fashion
+1657,1456,fashion
+1658,5356,home decor
+1659,7718,home decor
+1660,6449,accessories
+1661,4216,sports
+1662,1842,beauty
+1663,5641,home decor
+1664,1855,beauty
+1665,6895,beauty
+1666,6547,electronics
+1667,4558,home decor
+1668,3455,home decor
+1669,1903,beauty
+1670,7942,electronics
+1671,4641,electronics
+1672,5099,accessories
+1673,5811,electronics
+1674,4190,fashion
+1675,6478,sports
+1676,3127,accessories
+1677,7165,fashion
+1678,1208,home decor
+1679,4032,electronics
+1680,4570,beauty
+1681,1185,home decor
+1682,7877,home decor
+1683,1181,fashion
+1684,5349,sports
+1685,6997,beauty
+1686,5227,home decor
+1687,5585,accessories
+1688,3626,beauty
+1689,4334,accessories
+1690,3931,sports
+1691,2868,fashion
+1692,3339,fashion
+1693,4122,fashion
+1694,6411,sports
+1695,3158,home decor
+1696,4803,accessories
+1697,2017,home decor
+1698,1499,home decor
+1699,6407,footwear
+1700,6325,accessories
+1701,7563,fashion
+1702,6794,beauty
+1703,2381,sports
+1704,5223,fashion
+1705,6422,beauty
+1706,7459,sports
+1707,7084,fashion
+1708,1511,electronics
+1709,1389,electronics
+1710,2931,electronics
+1711,1934,sports
+1712,5211,electronics
+1713,6309,home decor
+1714,4434,electronics
+1715,7648,sports
+1716,6296,footwear
+1717,3631,accessories
+1718,6740,electronics
+1719,2873,electronics
+1720,7514,fashion
+1721,2681,beauty
+1722,3820,home decor
+1723,7252,beauty
+1724,3136,beauty
+1725,4846,beauty
+1726,4882,accessories
+1727,3429,electronics
+1728,2682,accessories
+1729,6603,beauty
+1730,3161,electronics
+1731,1290,beauty
+1732,6802,fashion
+1733,6265,home decor
+1734,6948,electronics
+1735,6803,beauty
+1736,4912,electronics
+1737,2847,home decor
+1738,5197,footwear
+1739,3720,electronics
+1740,5867,sports
+1741,3771,footwear
+1742,6526,fashion
+1743,3353,sports
+1744,1960,footwear
+1745,4366,home decor
+1746,6034,home decor
+1747,7175,beauty
+1748,5335,electronics
+1749,3162,home decor
+1750,7668,fashion
+1751,5027,accessories
+1752,7155,fashion
+1753,6536,accessories
+1754,1636,home decor
+1755,6261,footwear
+1756,4084,electronics
+1757,3108,sports
+1758,2976,home decor
+1759,4715,home decor
+1760,4779,footwear
+1761,2255,beauty
+1762,5280,fashion
+1763,6486,sports
+1764,2853,accessories
+1765,2295,electronics
+1766,3086,beauty
+1767,6713,fashion
+1768,7927,accessories
+1769,6806,fashion
+1770,3526,sports
+1771,3070,footwear
+1772,7067,electronics
+1773,5727,sports
+1774,2401,sports
+1775,3423,accessories
+1776,4695,beauty
+1777,6049,fashion
+1778,6825,accessories
+1779,7309,home decor
+1780,3957,electronics
+1781,7351,electronics
+1782,4119,sports
+1783,7696,beauty
+1784,2202,home decor
+1785,1036,beauty
+1786,5301,sports
+1787,3184,fashion
+1788,7539,footwear
+1789,6656,beauty
+1790,3836,home decor
+1791,2197,footwear
+1792,1117,beauty
+1793,7979,home decor
+1794,3200,electronics
+1795,7172,beauty
+1796,4029,sports
+1797,7241,beauty
+1798,4090,sports
+1799,3225,beauty
+1800,2349,home decor
+1801,3707,home decor
+1802,4023,beauty
+1803,3656,electronics
+1804,7024,sports
+1805,1341,footwear
+1806,7433,accessories
+1807,1744,fashion
+1808,5264,accessories
+1809,2316,accessories
+1810,3115,electronics
+1811,4780,home decor
+1812,2662,fashion
+1813,4243,fashion
+1814,3935,footwear
+1815,6724,footwear
+1816,3525,accessories
+1817,1546,accessories
+1818,6165,beauty
+1819,4075,accessories
+1820,7972,accessories
+1821,4264,beauty
+1822,7629,home decor
+1823,4114,footwear
+1824,5890,sports
+1825,2755,fashion
+1826,1983,beauty
+1827,4521,beauty
+1828,1306,accessories
+1829,2365,electronics
+1830,2361,accessories
+1831,5915,electronics
+1832,7367,beauty
+1833,2346,footwear
+1834,3657,sports
+1835,2516,fashion
+1836,3969,accessories
+1837,5077,home decor
+1838,1443,fashion
+1839,6613,sports
+1840,6419,beauty
+1841,1547,sports
+1842,4080,electronics
+1843,4206,electronics
+1844,7686,fashion
+1845,1309,sports
+1846,4397,fashion
+1847,3663,beauty
+1848,3764,footwear
+1849,2352,sports
+1850,4634,footwear
+1851,6777,accessories
+1852,3237,beauty
+1853,6508,home decor
+1854,4209,home decor
+1855,2454,sports
+1856,2863,beauty
+1857,5878,electronics
+1858,6955,accessories
+1859,1164,fashion
+1860,2871,footwear
+1861,2511,footwear
+1862,6302,accessories
+1863,4708,beauty
+1864,2363,sports
+1865,2851,electronics
+1866,5217,accessories
+1867,4989,fashion
+1868,2323,electronics
+1869,6444,sports
+1870,4719,sports
+1871,7688,accessories
+1872,5125,sports
+1873,2627,electronics
+1874,3535,accessories
+1875,4826,footwear
+1876,7650,beauty
+1877,3169,electronics
+1878,1883,fashion
+1879,5489,sports
+1880,6287,sports
+1881,4340,fashion
+1882,5778,home decor
+1883,2458,fashion
+1884,6206,home decor
+1885,6010,accessories
+1886,5149,footwear
+1887,6142,sports
+1888,1424,electronics
+1889,6967,accessories
+1890,3302,home decor
+1891,6859,sports
+1892,7275,electronics
+1893,2434,sports
+1894,1013,accessories
+1895,4087,sports
+1896,4060,footwear
+1897,2116,electronics
+1898,4961,beauty
+1899,2419,home decor
+1900,3484,electronics
+1901,5366,electronics
+1902,5891,fashion
+1903,3786,home decor
+1904,7843,home decor
+1905,7140,accessories
+1906,5798,accessories
+1907,6342,fashion
+1908,2018,electronics
+1909,4379,fashion
+1910,4893,fashion
+1911,6198,accessories
+1912,2699,accessories
+1913,6529,accessories
+1914,1868,electronics
+1915,4056,home decor
+1916,2704,electronics
+1917,7666,home decor
+1918,6182,electronics
+1919,7182,fashion
+1920,1788,accessories
+1921,3949,sports
+1922,5909,sports
+1923,7071,sports
+1924,4658,electronics
+1925,5914,home decor
+1926,2644,sports
+1927,1647,beauty
+1928,1082,fashion
+1929,7116,home decor
+1930,3932,electronics
+1931,3606,electronics
+1932,4343,fashion
+1933,3784,home decor
+1934,2186,fashion
+1935,1777,footwear
+1936,7486,footwear
+1937,1822,electronics
+1938,3172,electronics
+1939,3351,footwear
+1940,7120,footwear
+1941,2283,electronics
+1942,5882,footwear
+1943,2083,home decor
+1944,3514,fashion
+1945,3537,electronics
+1946,6901,footwear
+1947,6152,footwear
+1948,3613,fashion
+1949,1420,home decor
+1950,3925,footwear
+1951,6073,fashion
+1952,3206,footwear
+1953,1034,footwear
+1954,6117,electronics
+1955,1438,fashion
+1956,4800,accessories
+1957,3919,accessories
+1958,5462,electronics
+1959,5461,home decor
+1960,2887,beauty
+1961,7713,beauty
+1962,6798,electronics
+1963,5877,home decor
+1964,4363,home decor
+1965,4117,beauty
+1966,4721,footwear
+1967,1494,accessories
+1968,1569,fashion
+1969,4825,sports
+1970,6551,accessories
+1971,4295,home decor
+1972,3117,footwear
+1973,3482,accessories
+1974,2772,beauty
+1975,1783,beauty
+1976,3817,sports
+1977,1616,accessories
+1978,3726,sports
+1979,7980,footwear
+1980,3269,footwear
+1981,3055,home decor
+1982,6554,sports
+1983,5555,beauty
+1984,2468,accessories
+1985,1818,beauty
+1986,3855,footwear
+1987,2778,sports
+1988,3821,accessories
+1989,3662,electronics
+1990,6168,footwear
+1991,2966,footwear
+1992,6498,sports
+1993,4655,footwear
+1994,3151,beauty
+1995,3170,accessories
+1996,5055,fashion
+1997,4743,beauty
+1998,4237,sports
+1999,5918,beauty
+2000,1898,beauty
+2001,6516,electronics
+2002,2151,electronics
+2003,6358,beauty
+2004,2577,home decor
+2005,5345,home decor
+2006,5747,beauty
+2007,3811,beauty
+2008,3776,accessories
+2009,7802,beauty
+2010,5552,sports
+2011,5387,accessories
+2012,6314,footwear
+2013,6201,footwear
+2014,7825,home decor
+2015,1375,footwear
+2016,6426,electronics
+2017,6336,home decor
+2018,3961,home decor
+2019,1215,sports
+2020,3082,footwear
+2021,5629,electronics
+2022,7780,fashion
+2023,7766,fashion
+2024,2433,accessories
+2025,4462,fashion
+2026,3258,sports
+2027,1338,accessories
+2028,3761,home decor
+2029,4904,fashion
+2030,5560,electronics
+2031,4401,beauty
+2032,1912,fashion
+2033,5777,sports
+2034,3987,footwear
+2035,3986,home decor
+2036,5957,sports
+2037,4324,electronics
+2038,4107,electronics
+2039,6700,beauty
+2040,7336,beauty
+2041,5688,beauty
+2042,3544,accessories
+2043,5405,fashion
+2044,2056,fashion
+2045,7548,fashion
+2046,7272,electronics
+2047,3587,beauty
+2048,1459,footwear
+2049,3035,home decor
+2050,7378,beauty
+2051,3153,beauty
+2052,6295,accessories
+2053,5720,sports
+2054,5384,accessories
+2055,5200,beauty
+2056,2272,fashion
+2057,4385,footwear
+2058,4047,home decor
+2059,2073,footwear
+2060,7687,accessories
+2061,7240,beauty
+2062,4456,beauty
+2063,5631,footwear
+2064,4167,footwear
+2065,3475,electronics
+2066,3059,home decor
+2067,1102,sports
+2068,5287,sports
+2069,7209,footwear
+2070,6670,fashion
+2071,1310,sports
+2072,6176,home decor
+2073,3354,footwear
+2074,4647,accessories
+2075,5994,accessories
+2076,3137,home decor
+2077,5299,footwear
+2078,6762,accessories
+2079,5569,electronics
+2080,4973,fashion
+2081,2284,fashion
+2082,3998,fashion
+2083,5449,beauty
+2084,7456,electronics
+2085,3042,electronics
+2086,1445,home decor
+2087,3146,accessories
+2088,1448,home decor
+2089,1067,beauty
+2090,1890,footwear
+2091,1871,accessories
+2092,1948,footwear
+2093,7097,beauty
+2094,2619,accessories
+2095,1095,fashion
+2096,4416,fashion
+2097,2350,footwear
+2098,1861,sports
+2099,1342,fashion
+2100,4220,beauty
+2101,2504,sports
+2102,4354,electronics
+2103,4789,home decor
+2104,5647,home decor
+2105,4061,footwear
+2106,3311,accessories
+2107,1962,home decor
+2108,1162,beauty
+2109,6989,home decor
+2110,1330,accessories
+2111,2779,footwear
+2112,2007,home decor
+2113,3163,home decor
+2114,4485,beauty
+2115,1932,accessories
+2116,1655,beauty
+2117,6389,sports
+2118,5724,footwear
+2119,2791,beauty
+2120,3049,electronics
+2121,3052,beauty
+2122,1556,electronics
+2123,3790,electronics
+2124,1379,sports
+2125,1553,fashion
+2126,3433,fashion
+2127,4740,electronics
+2128,1604,footwear
+2129,1152,electronics
+2130,2429,sports
+2131,5434,accessories
+2132,4261,accessories
+2133,3700,sports
+2134,7333,accessories
+2135,2407,electronics
+2136,4256,sports
+2137,3336,home decor
+2138,2278,footwear
+2139,3592,accessories
+2140,3359,beauty
+2141,3012,electronics
+2142,7044,footwear
+2143,7058,beauty
+2144,4131,beauty
+2145,4223,sports
+2146,5536,home decor
+2147,6772,sports
+2148,7303,electronics
+2149,2718,sports
+2150,3921,footwear
+2151,3562,home decor
+2152,4712,footwear
+2153,3140,footwear
+2154,6205,home decor
+2155,3756,beauty
+2156,1554,home decor
+2157,7100,footwear
+2158,2146,electronics
+2159,2035,footwear
+2160,1987,sports
+2161,3762,footwear
+2162,6262,accessories
+2163,5389,sports
+2164,7461,electronics
+2165,6359,electronics
+2166,1996,sports
+2167,6774,sports
+2168,2247,footwear
+2169,2087,beauty
+2170,4001,electronics
+2171,7394,sports
+2172,3639,home decor
+2173,5960,accessories
+2174,1679,beauty
+2175,1676,fashion
+2176,4302,footwear
+2177,1892,footwear
+2178,3633,electronics
+2179,1399,beauty
+2180,4972,electronics
+2181,2811,footwear
+2182,5151,fashion
+2183,4162,electronics
+2184,2322,fashion
+2185,7587,footwear
+2186,1058,footwear
+2187,3956,sports
+2188,7546,beauty
+2189,4022,sports
+2190,6630,accessories
+2191,6065,sports
+2192,5658,accessories
+2193,7063,accessories
+2194,4642,footwear
+2195,2333,home decor
+2196,6019,sports
+2197,5934,beauty
+2198,4847,footwear
+2199,4086,sports
+2200,2308,footwear
+2201,1742,accessories
+2202,7344,electronics
+2203,3045,accessories
+2204,3542,sports
+2205,2289,sports
+2206,3938,home decor
+2207,5911,accessories
+2208,4141,sports
+2209,6323,footwear
+2210,6991,electronics
+2211,3125,home decor
+2212,3442,footwear
+2213,2746,home decor
+2214,7363,footwear
+2215,5818,accessories
+2216,4996,beauty
+2217,3604,sports
+2218,4094,electronics
+2219,2103,electronics
+2220,4573,fashion
+2221,5836,sports
+2222,5324,home decor
+2223,7141,fashion
+2224,6408,beauty
+2225,2045,beauty
+2226,2482,sports
+2227,5996,sports
+2228,2387,fashion
+2229,4608,footwear
+2230,6413,beauty
+2231,3740,footwear
+2232,2759,fashion
+2233,6701,home decor
+2234,4016,footwear
+2235,7537,footwear
+2236,3486,footwear
+2237,6628,beauty
+2238,6614,electronics
+2239,5454,footwear
+2240,5435,accessories
+2241,2860,fashion
+2242,5919,sports
+2243,4384,home decor
+2244,4024,fashion
+2245,7355,beauty
+2246,4816,fashion
+2247,6780,sports
+2248,4139,footwear
+2249,6441,beauty
+2250,5702,footwear
+2251,5398,fashion
+2252,7255,home decor
+2253,5423,accessories
+2254,6764,home decor
+2255,6482,home decor
+2256,7852,sports
+2257,5037,footwear
+2258,3725,beauty
+2259,5369,footwear
+2260,1536,sports
+2261,1578,beauty
+2262,6208,footwear
+2263,5089,footwear
+2264,5500,fashion
+2265,5190,footwear
+2266,2449,home decor
+2267,1591,home decor
+2268,5403,fashion
+2269,1319,fashion
+2270,6234,accessories
+2271,2148,home decor
+2272,7876,accessories
+2273,6835,accessories
+2274,5525,accessories
+2275,1830,sports
+2276,5480,beauty
+2277,2689,footwear
+2278,1713,accessories
+2279,4864,fashion
+2280,4070,electronics
+2281,1088,sports
+2282,4921,electronics
+2283,7203,fashion
+2284,6418,accessories
+2285,5679,fashion
+2286,2286,electronics
+2287,2961,electronics
+2288,6836,beauty
+2289,5725,beauty
+2290,4580,footwear
+2291,1997,beauty
+2292,7609,accessories
+2293,5494,sports
+2294,7894,electronics
+2295,2987,electronics
+2296,5808,electronics
+2297,2963,fashion
+2298,7637,accessories
+2299,1174,home decor
+2300,5458,home decor
+2301,7695,footwear
+2302,1584,sports
+2303,2314,electronics
+2304,5617,electronics
+2305,4772,footwear
+2306,2445,footwear
+2307,2658,home decor
+2308,5946,fashion
+2309,2675,beauty
+2310,5698,beauty
+2311,6560,home decor
+2312,2620,footwear
+2313,7482,sports
+2314,5210,beauty
+2315,4059,electronics
+2316,2357,accessories
+2317,2060,home decor
+2318,2329,accessories
+2319,6000,electronics
+2320,2412,fashion
+2321,1264,beauty
+2322,7173,electronics
+2323,1333,home decor
+2324,4259,fashion
+2325,2282,sports
+2326,2715,electronics
+2327,7295,home decor
+2328,2691,beauty
+2329,7822,sports
+2330,2232,sports
+2331,4153,accessories
+2332,6618,home decor
+2333,1720,sports
+2334,1664,footwear
+2335,7413,sports
+2336,1468,home decor
+2337,7426,electronics
+2338,3051,home decor
+2339,3664,accessories
+2340,4495,fashion
+2341,2297,electronics
+2342,1530,fashion
+2343,6706,home decor
+2344,7283,electronics
+2345,7946,fashion
+2346,1756,accessories
+2347,6361,electronics
+2348,6263,fashion
+2349,6115,accessories
+2350,4291,accessories
+2351,5267,accessories
+2352,5838,sports
+2353,1931,sports
+2354,2437,fashion
+2355,4919,accessories
+2356,7768,accessories
+2357,1595,footwear
+2358,6128,home decor
+2359,1124,electronics
+2360,5141,electronics
+2361,6393,electronics
+2362,4499,beauty
+2363,2237,sports
+2364,5929,sports
+2365,1633,fashion
+2366,2521,electronics
+2367,2465,accessories
+2368,4394,fashion
+2369,7986,fashion
+2370,1585,fashion
+2371,6203,beauty
+2372,1606,home decor
+2373,6682,sports
+2374,1428,accessories
+2375,6875,home decor
+2376,6013,fashion
+2377,7350,home decor
+2378,3401,accessories
+2379,2470,beauty
+2380,1683,sports
+2381,4854,electronics
+2382,7882,home decor
+2383,2424,accessories
+2384,4045,home decor
+2385,4388,footwear
+2386,7556,home decor
+2387,2112,fashion
+2388,6673,footwear
+2389,5309,footwear
+2390,1151,home decor
+2391,3066,accessories
+2392,5590,footwear
+2393,5456,electronics
+2394,5062,fashion
+2395,3113,footwear
+2396,2882,accessories
+2397,3111,accessories
+2398,7599,electronics
+2399,2436,sports
+2400,1213,fashion
+2401,2309,footwear
+2402,5680,accessories
+2403,7013,home decor
+2404,1611,accessories
+2405,5108,electronics
+2406,4950,home decor
+2407,1439,home decor
+2408,7729,electronics
+2409,3488,footwear
+2410,1864,home decor
+2411,3305,sports
+2412,6822,fashion
+2413,3827,home decor
+2414,3487,electronics
+2415,7984,beauty
+2416,7274,sports
+2417,3779,accessories
+2418,6299,accessories
+2419,1527,beauty
+2420,6607,beauty
+2421,1722,footwear
+2422,7373,footwear
+2423,3048,electronics
+2424,6558,electronics
+2425,1541,sports
+2426,5052,electronics
+2427,2551,footwear
+2428,5263,accessories
+2429,3041,footwear
+2430,5706,footwear
+2431,7519,sports
+2432,1462,electronics
+2433,3458,fashion
+2434,4316,electronics
+2435,3164,accessories
+2436,4527,footwear
+2437,4058,fashion
+2438,6379,accessories
+2439,3496,sports
+2440,1482,footwear
+2441,7171,electronics
+2442,1891,sports
+2443,2846,accessories
+2444,7016,home decor
+2445,3114,electronics
+2446,4727,fashion
+2447,2097,accessories
+2448,3959,electronics
+2449,7158,accessories
+2450,1680,beauty
+2451,4899,electronics
+2452,6515,home decor
+2453,7436,home decor
+2454,4839,home decor
+2455,1408,sports
+2456,3781,home decor
+2457,3205,fashion
+2458,5026,footwear
+2459,5030,home decor
+2460,4453,fashion
+2461,6958,electronics
+2462,5100,beauty
+2463,4855,sports
+2464,2230,fashion
+2465,2064,fashion
+2466,5181,home decor
+2467,6387,beauty
+2468,3199,beauty
+2469,7297,beauty
+2470,1371,electronics
+2471,7117,sports
+2472,6473,footwear
+2473,1908,beauty
+2474,6395,electronics
+2475,4249,sports
+2476,6839,accessories
+2477,1673,fashion
+2478,6751,sports
+2479,2631,sports
+2480,2263,sports
+2481,7429,footwear
+2482,6098,beauty
+2483,2597,electronics
+2484,5815,sports
+2485,7287,footwear
+2486,4406,fashion
+2487,2734,accessories
+2488,7955,electronics
+2489,1449,beauty
+2490,7782,home decor
+2491,6589,sports
+2492,4863,sports
+2493,6373,electronics
+2494,5491,footwear
+2495,7259,beauty
+2496,4698,accessories
+2497,3337,fashion
+2498,3285,beauty
+2499,1275,sports
+2500,1077,sports
+2501,4409,beauty
+2502,5130,fashion
+2503,5158,sports
+2504,7831,home decor
+2505,5016,accessories
+2506,6400,accessories
+2507,3270,accessories
+2508,3309,beauty
+2509,2572,sports
+2510,3192,fashion
+2511,4054,electronics
+2512,6406,fashion
+2513,3105,home decor
+2514,6382,accessories
+2515,6466,sports
+2516,2173,footwear
+2517,7106,sports
+2518,3546,footwear
+2519,7242,footwear
+2520,5187,accessories
+2521,2525,beauty
+2522,3774,electronics
+2523,4735,electronics
+2524,5432,fashion
+2525,1175,accessories
+2526,7500,accessories
+2527,6679,sports
+2528,3228,beauty
+2529,1261,sports
+2530,4830,fashion
+2531,2059,fashion
+2532,2479,footwear
+2533,1627,accessories
+2534,4149,footwear
+2535,1109,sports
+2536,2799,footwear
+2537,6586,footwear
+2538,7109,electronics
+2539,3011,home decor
+2540,5028,fashion
+2541,3685,electronics
+2542,6924,sports
+2543,7059,sports
+2544,5738,sports
+2545,5562,electronics
+2546,7757,sports
+2547,4546,beauty
+2548,7773,home decor
+2549,3898,fashion
+2550,3013,footwear
+2551,4185,fashion
+2552,1839,beauty
+2553,5010,accessories
+2554,7705,home decor
+2555,1814,fashion
+2556,3103,sports
+2557,7657,accessories
+2558,5282,footwear
+2559,4638,beauty
+2560,3034,fashion
+2561,4618,beauty
+2562,2822,sports
+2563,2483,fashion
+2564,4230,home decor
+2565,6145,beauty
+2566,1747,beauty
+2567,3783,fashion
+2568,2339,beauty
+2569,1817,home decor
+2570,1121,electronics
+2571,4458,home decor
+2572,4731,sports
+2573,5097,beauty
+2574,2254,home decor
+2575,6111,sports
+2576,6484,sports
+2577,2228,home decor
+2578,3494,beauty
+2579,6383,sports
+2580,5889,home decor
+2581,6045,footwear
+2582,3121,home decor
+2583,5005,sports
+2584,6953,home decor
+2585,6878,home decor
+2586,6824,fashion
+2587,4267,accessories
+2588,1767,fashion
+2589,2946,footwear
+2590,3515,home decor
+2591,6995,sports
+2592,1965,home decor
+2593,6318,beauty
+2594,1132,beauty
+2595,2955,fashion
+2596,6877,sports
+2597,5502,footwear
+2598,3946,fashion
+2599,7641,electronics
+2600,5025,beauty
+2601,2579,fashion
+2602,5340,footwear
+2603,5696,electronics
+2604,3143,fashion
+2605,2545,beauty
+2606,4146,electronics
+2607,5431,home decor
+2608,7571,accessories
+2609,7145,accessories
+2610,3716,fashion
+2611,1897,accessories
+2612,7741,accessories
+2613,4490,home decor
+2614,1863,fashion
+2615,4044,accessories
+2616,3926,fashion
+2617,2156,home decor
+2618,3951,accessories
+2619,5885,sports
+2620,7462,fashion
+2621,4355,sports
+2622,6337,fashion
+2623,7036,home decor
+2624,7858,accessories
+2625,6226,fashion
+2626,2765,footwear
+2627,3888,sports
+2628,2327,fashion
+2629,2889,footwear
+2630,4450,beauty
+2631,3346,sports
+2632,3073,home decor
+2633,6451,fashion
+2634,4836,electronics
+2635,7393,sports
+2636,5004,home decor
+2637,1743,fashion
+2638,4198,fashion
+2639,2910,home decor
+2640,6632,footwear
+2641,2347,footwear
+2642,4367,beauty
+2643,3481,electronics
+2644,2735,footwear
+2645,2601,electronics
+2646,6643,electronics
+2647,2138,fashion
+2648,6370,electronics
+2649,5510,accessories
+2650,4668,electronics
+2651,2311,fashion
+2652,4219,fashion
+2653,7226,beauty
+2654,1072,home decor
+2655,4729,beauty
+2656,1187,sports
+2657,4566,home decor
+2658,2820,beauty
+2659,4229,fashion
+2660,4822,home decor
+2661,6956,footwear
+2662,3627,fashion
+2663,3729,electronics
+2664,2856,footwear
+2665,2042,fashion
+2666,7914,electronics
+2667,5967,electronics
+2668,5266,home decor
+2669,6684,sports
+2670,4990,electronics
+2671,5528,home decor
+2672,4342,sports
+2673,2032,electronics
+2674,7849,footwear
+2675,3152,accessories
+2676,6468,footwear
+2677,4497,home decor
+2678,1941,footwear
+2679,4038,accessories
+2680,5959,sports
+2681,1759,footwear
+2682,1256,beauty
+2683,3812,electronics
+2684,1081,beauty
+2685,2783,footwear
+2686,5864,beauty
+2687,7515,beauty
+2688,4375,sports
+2689,7610,electronics
+2690,6986,beauty
+2691,6920,fashion
+2692,6703,footwear
+2693,6104,fashion
+2694,1858,sports
+2695,4940,accessories
+2696,1169,sports
+2697,4769,footwear
+2698,6227,beauty
+2699,6231,beauty
+2700,1223,home decor
+2701,3770,accessories
+2702,1483,electronics
+2703,2801,electronics
+2704,3306,sports
+2705,5082,footwear
+2706,1597,sports
+2707,1084,accessories
+2708,1989,fashion
+2709,5762,fashion
+2710,5673,footwear
+2711,4015,beauty
+2712,2174,fashion
+2713,4493,home decor
+2714,6503,beauty
+2715,7072,footwear
+2716,6195,footwear
+2717,7971,electronics
+2718,1727,sports
+2719,2065,fashion
+2720,7076,home decor
+2721,1423,fashion
+2722,6678,footwear
+2723,7717,electronics
+2724,5332,electronics
+2725,1318,electronics
+2726,6166,electronics
+2727,7322,accessories
+2728,6343,accessories
+2729,7783,electronics
+2730,2025,accessories
+2731,1598,beauty
+2732,2806,footwear
+2733,6051,fashion
+2734,6565,home decor
+2735,7527,fashion
+2736,6159,beauty
+2737,4383,footwear
+2738,1118,electronics
+2739,3971,beauty
+2740,3039,fashion
+2741,1927,home decor
+2742,5147,footwear
+2743,2838,electronics
+2744,1446,accessories
+2745,6970,home decor
+2746,2825,home decor
+2747,5531,footwear
+2748,5426,accessories
+2749,3043,accessories
+2750,3897,footwear
+2751,6504,home decor
+2752,3983,beauty
+2753,4840,accessories
+2754,1469,footwear
+2755,5550,beauty
+2756,5469,footwear
+2757,5048,fashion
+2758,2328,fashion
+2759,7848,home decor
+2760,6570,sports
+2761,7254,electronics
+2762,7160,beauty
+2763,2335,sports
+2764,3580,sports
+2765,3890,home decor
+2766,1193,beauty
+2767,4966,sports
+2768,5755,electronics
+2769,6951,sports
+2770,3142,home decor
+2771,7101,accessories
+2772,3096,accessories
+2773,4850,fashion
+2774,6050,fashion
+2775,1495,sports
+2776,2782,home decor
+2777,1120,electronics
+2778,4884,accessories
+2779,4239,footwear
+2780,1776,electronics
+2781,4504,sports
+2782,1179,home decor
+2783,5589,electronics
+2784,1608,electronics
+2785,2398,electronics
+2786,5943,footwear
+2787,5184,home decor
+2788,5471,fashion
+2789,5444,fashion
+2790,1233,home decor
+2791,6893,home decor
+2792,6186,fashion
+2793,6776,fashion
+2794,5895,beauty
+2795,1407,accessories
+2796,4042,electronics
+2797,3722,accessories
+2798,4636,beauty
+2799,2915,fashion
+2800,1406,sports
+2801,3102,accessories
+2802,2997,electronics
+2803,3666,footwear
+2804,5806,accessories
+2805,7961,accessories
+2806,2531,footwear
+2807,5976,beauty
+2808,2275,footwear
+2809,4327,fashion
+2810,1885,sports
+2811,4466,accessories
+2812,7149,home decor
+2813,1419,accessories
+2814,1566,home decor
+2815,4105,electronics
+2816,3760,beauty
+2817,3886,fashion
+2818,5013,footwear
+2819,2937,footwear
+2820,5656,sports
+2821,7484,home decor
+2822,2933,beauty
+2823,4294,footwear
+2824,4378,electronics
+2825,2528,electronics
+2826,5682,beauty
+2827,5447,fashion
+2828,3905,electronics
+2829,3976,home decor
+2830,1659,fashion
+2831,2441,footwear
+2832,6315,sports
+2833,5209,accessories
+2834,2802,sports
+2835,3241,electronics
+2836,2027,fashion
+2837,1472,sports
+2838,3611,beauty
+2839,5651,footwear
+2840,1881,home decor
+2841,2611,sports
+2842,2093,footwear
+2843,3154,fashion
+2844,7400,sports
+2845,4687,fashion
+2846,6349,footwear
+2847,2771,home decor
+2848,6233,electronics
+2849,6709,accessories
+2850,3448,home decor
+2851,1798,electronics
+2852,6436,accessories
+2853,7559,home decor
+2854,6456,sports
+2855,5439,electronics
+2856,3284,home decor
+2857,7787,footwear
+2858,6754,accessories
+2859,4571,beauty
+2860,3649,electronics
+2861,6545,electronics
+2862,5630,electronics
+2863,4797,electronics
+2864,7471,sports
+2865,5269,home decor
+2866,7091,beauty
+2867,5110,electronics
+2868,4613,electronics
+2869,1112,sports
+2870,2048,accessories
+2871,2537,beauty
+2872,4923,sports
+2873,2964,accessories
+2874,1171,fashion
+2875,3439,beauty
+2876,4689,accessories
+2877,5865,beauty
+2878,2985,sports
+2879,4633,footwear
+2880,6856,electronics
+2881,3441,footwear
+2882,7841,electronics
+2883,7228,footwear
+2884,2236,electronics
+2885,5330,beauty
+2886,3316,home decor
+2887,3130,beauty
+2888,7329,home decor
+2889,5157,sports
+2890,6398,fashion
+2891,4992,footwear
+2892,2845,accessories
+2893,3262,fashion
+2894,2418,electronics
+2895,5827,home decor
+2896,6164,sports
+2897,6244,accessories
+2898,3028,beauty
+2899,6674,accessories
+2900,4823,electronics
+2901,7847,electronics
+2902,3478,electronics
+2903,5579,fashion
+2904,1074,fashion
+2905,3800,footwear
+2906,3567,fashion
+2907,7151,sports
+2908,3099,electronics
+2909,6200,electronics
+2910,3880,accessories
+2911,4158,accessories
+2912,6771,home decor
+2913,5927,electronics
+2914,6243,fashion
+2915,3333,accessories
+2916,4207,fashion
+2917,3940,fashion
+2918,2345,fashion
+2919,6316,electronics
+2920,4788,fashion
+2921,2744,fashion
+2922,1907,footwear
+2923,6225,sports
+2924,3671,electronics
+2925,7770,accessories
+2926,7722,beauty
+2927,7278,footwear
+2928,5371,beauty
+2929,7331,home decor
+2930,5359,home decor
+2931,4438,footwear
+2932,5947,beauty
+2933,4806,fashion
+2934,7399,sports
+2935,5475,fashion
+2936,7836,electronics
+2937,1733,fashion
+2938,7526,electronics
+2939,1760,home decor
+2940,5598,beauty
+2941,2661,electronics
+2942,5191,sports
+2943,6313,sports
+2944,7341,home decor
+2945,4657,fashion
+2946,6042,beauty
+2947,1589,sports
+2948,2679,footwear
+2949,6248,fashion
+2950,6500,beauty
+2951,6178,electronics
+2952,7586,accessories
+2953,3308,footwear
+2954,4265,home decor
+2955,3288,fashion
+2956,4238,beauty
+2957,1168,footwear
+2958,5984,fashion
+2959,7218,fashion
+2960,1793,beauty
+2961,3443,beauty
+2962,5825,fashion
+2963,4402,home decor
+2964,5464,home decor
+2965,6845,beauty
+2966,3523,home decor
+2967,4349,beauty
+2968,1852,sports
+2969,7985,electronics
+2970,5632,accessories
+2971,5198,fashion
+2972,2775,footwear
+2973,6704,beauty
+2974,2189,beauty
+2975,3493,beauty
+2976,4684,electronics
+2977,4587,fashion
+2978,6966,electronics
+2979,1412,home decor
+2980,4872,sports
+2981,2780,footwear
+2982,4843,electronics
+2983,4529,electronics
+2984,6312,home decor
+2985,7505,sports
+2986,1339,sports
+2987,3331,beauty
+2988,4133,accessories
+2989,4073,fashion
+2990,7396,home decor
+2991,7736,beauty
+2992,3373,footwear
+2993,6758,accessories
+2994,1914,accessories
+2995,4292,sports
+2996,4807,sports
+2997,1011,accessories
+2998,2972,beauty
+2999,7808,fashion
+3000,6016,home decor
+3001,4274,electronics
+3002,2300,sports
+3003,2079,accessories
+3004,6654,footwear
+3005,4707,electronics
+3006,2954,electronics
+3007,5347,electronics
+3008,6437,fashion
+3009,3641,sports
+3010,5942,electronics
+3011,6372,fashion
+3012,4709,sports
+3013,3246,fashion
+3014,7619,home decor
+3015,5732,accessories
+3016,2425,sports
+3017,6593,sports
+3018,3278,home decor
+3019,1228,beauty
+3020,4067,fashion
+3021,2741,beauty
+3022,5600,accessories
+3023,1467,fashion
+3024,6906,accessories
+3025,5233,accessories
+3026,5199,electronics
+3027,2330,fashion
+3028,3860,sports
+3029,4696,sports
+3030,7779,accessories
+3031,7481,fashion
+3032,3608,sports
+3033,3350,fashion
+3034,4241,footwear
+3035,2901,home decor
+3036,5741,footwear
+3037,5237,sports
+3038,2754,footwear
+3039,7902,home decor
+3040,4451,sports
+3041,7455,home decor
+3042,1977,sports
+3043,3257,fashion
+3044,4199,sports
+3045,6816,accessories
+3046,2127,electronics
+3047,5668,home decor
+3048,1304,accessories
+3049,1097,fashion
+3050,6747,footwear
+3051,7211,sports
+3052,5240,fashion
+3053,7409,footwear
+3054,3977,beauty
+3055,3684,footwear
+3056,1700,beauty
+3057,5521,footwear
+3058,7746,beauty
+3059,2239,beauty
+3060,1498,fashion
+3061,6303,sports
+3062,6748,beauty
+3063,1091,beauty
+3064,6842,fashion
+3065,6301,electronics
+3066,6562,beauty
+3067,3840,electronics
+3068,1258,accessories
+3069,6574,beauty
+3070,5686,fashion
+3071,4077,electronics
+3072,1374,accessories
+3073,6690,sports
+3074,4093,electronics
+3075,6992,home decor
+3076,6340,electronics
+3077,6360,footwear
+3078,7669,accessories
+3079,6101,footwear
+3080,7057,home decor
+3081,1708,fashion
+3082,5847,footwear
+3083,7861,accessories
+3084,2400,fashion
+3085,2124,footwear
+3086,5015,beauty
+3087,4374,sports
+3088,1199,home decor
+3089,7089,sports
+3090,4373,electronics
+3091,6833,beauty
+3092,2106,fashion
+3093,5383,accessories
+3094,2047,beauty
+3095,1502,home decor
+3096,2909,sports
+3097,4484,electronics
+3098,3718,electronics
+3099,6250,fashion
+3100,4152,fashion
+3101,5290,footwear
+3102,1838,beauty
+3103,3974,accessories
+3104,6338,accessories
+3105,7929,electronics
+3106,4766,beauty
+3107,6549,beauty
+3108,3141,electronics
+3109,1629,home decor
+3110,7011,accessories
+3111,3000,fashion
+3112,5840,footwear
+3113,4332,footwear
+3114,2670,accessories
+3115,5495,beauty
+3116,2171,home decor
+3117,6832,accessories
+3118,6820,footwear
+3119,1108,electronics
+3120,1372,sports
+3121,1641,home decor
+3122,2220,footwear
+3123,2549,footwear
+3124,5140,sports
+3125,3859,sports
+3126,6731,electronics
+3127,5665,sports
+3128,2693,home decor
+3129,3830,beauty
+3130,7826,home decor
+3131,7934,beauty
+3132,1237,beauty
+3133,7207,beauty
+3134,4477,fashion
+3135,4738,fashion
+3136,6264,home decor
+3137,6249,sports
+3138,6238,beauty
+3139,6539,footwear
+3140,4545,sports
+3141,5202,footwear
+3142,5081,sports
+3143,3379,beauty
+3144,2960,sports
+3145,7636,footwear
+3146,1906,accessories
+3147,2998,electronics
+3148,5505,footwear
+3149,7019,beauty
+3150,5467,sports
+3151,5540,accessories
+3152,6351,home decor
+3153,5128,fashion
+3154,5884,fashion
+3155,2373,accessories
+3156,3235,home decor
+3157,2885,electronics
+3158,7799,accessories
+3159,5781,sports
+3160,2435,electronics
+3161,1136,footwear
+3162,3363,accessories
+3163,3310,accessories
+3164,3585,electronics
+3165,7221,electronics
+3166,4878,sports
+3167,5681,footwear
+3168,7427,fashion
+3169,1043,electronics
+3170,6355,sports
+3171,2945,accessories
+3172,2911,fashion
+3173,7728,sports
+3174,2716,beauty
+3175,6998,beauty
+3176,2522,fashion
+3177,1218,accessories
+3178,6625,sports
+3179,3327,electronics
+3180,5883,beauty
+3181,1094,sports
+3182,1865,beauty
+3183,1115,accessories
+3184,2408,footwear
+3185,4838,footwear
+3186,5995,sports
+3187,1610,footwear
+3188,4315,beauty
+3189,6561,electronics
+3190,6356,accessories
+3191,2099,sports
+3192,4245,home decor
+3193,6584,footwear
+3194,1902,electronics
+3195,5963,accessories
+3196,1677,accessories
+3197,7112,footwear
+3198,2046,fashion
+3199,4616,home decor
+3200,7869,footwear
+3201,7677,beauty
+3202,3236,beauty
+3203,6571,sports
+3204,7647,accessories
+3205,5303,home decor
+3206,4693,footwear
+3207,1652,footwear
+3208,7621,footwear
+3209,7340,footwear
+3210,4553,footwear
+3211,3618,fashion
+3212,5796,beauty
+3213,5483,sports
+3214,2178,beauty
+3215,6750,electronics
+3216,7624,footwear
+3217,1524,electronics
+3218,7777,footwear
+3219,1479,accessories
+3220,4559,footwear
+3221,4278,beauty
+3222,2102,footwear
+3223,6548,sports
+3224,3361,footwear
+3225,2185,electronics
+3226,4148,home decor
+3227,5572,home decor
+3228,4809,electronics
+3229,3519,home decor
+3230,1147,accessories
+3231,4858,footwear
+3232,6043,beauty
+3233,1126,electronics
+3234,7497,sports
+3235,5662,home decor
+3236,3056,electronics
+3237,1519,sports
+3238,7354,home decor
+3239,5196,sports
+3240,1455,accessories
+3241,5417,beauty
+3242,5172,electronics
+3243,2126,sports
+3244,6127,beauty
+3245,4593,fashion
+3246,7832,beauty
+3247,6985,fashion
+3248,4621,accessories
+3249,4718,footwear
+3250,7534,beauty
+3251,2063,accessories
+3252,2380,home decor
+3253,3658,home decor
+3254,6914,accessories
+3255,7261,footwear
+3256,1070,fashion
+3257,6779,sports
+3258,1476,electronics
+3259,5020,accessories
+3260,1148,accessories
+3261,5164,home decor
+3262,3215,sports
+3263,2460,beauty
+3264,6550,home decor
+3265,3287,accessories
+3266,7709,electronics
+3267,4282,electronics
+3268,6782,fashion
+3269,2794,fashion
+3270,3989,beauty
+3271,4345,fashion
+3272,4186,electronics
+3273,2823,footwear
+3274,3607,sports
+3275,3231,home decor
+3276,7460,electronics
+3277,4102,electronics
+3278,2575,beauty
+3279,1276,electronics
+3280,7457,footwear
+3281,3748,footwear
+3282,5189,fashion
+3283,3936,sports
+3284,7138,beauty
+3285,1098,fashion
+3286,1041,beauty
+3287,6732,fashion
+3288,2563,electronics
+3289,2517,accessories
+3290,5176,electronics
+3291,1460,fashion
+3292,1184,footwear
+3293,3009,home decor
+3294,4828,fashion
+3295,1625,fashion
+3296,3468,accessories
+3297,2052,electronics
+3298,5463,beauty
+3299,7264,home decor
+3300,4503,sports
+3301,4815,fashion
+3302,1780,beauty
+3303,6843,beauty
+3304,7883,home decor
+3305,1772,electronics
+3306,4866,accessories
+3307,6590,home decor
+3308,7690,electronics
+3309,2022,footwear
+3310,2332,electronics
+3311,7542,sports
+3312,3274,beauty
+3313,4814,accessories
+3314,4930,accessories
+3315,4222,sports
+3316,6753,accessories
+3317,3693,beauty
+3318,1845,home decor
+3319,5084,fashion
+3320,4586,sports
+3321,1402,electronics
+3322,2969,electronics
+3323,3980,sports
+3324,5537,home decor
+3325,3863,home decor
+3326,2639,beauty
+3327,7572,footwear
+3328,7043,footwear
+3329,2179,home decor
+3330,3572,accessories
+3331,4547,accessories
+3332,1236,beauty
+3333,7398,electronics
+3334,5782,beauty
+3335,1452,accessories
+3336,4690,sports
+3337,1382,accessories
+3338,7552,footwear
+3339,3866,beauty
+3340,1192,fashion
+3341,7748,electronics
+3342,4176,sports
+3343,6481,accessories
+3344,2187,electronics
+3345,2805,accessories
+3346,2808,accessories
+3347,2925,accessories
+3348,7536,footwear
+3349,7983,fashion
+3350,4118,fashion
+3351,4507,footwear
+3352,3805,accessories
+3353,2989,home decor
+3354,2492,fashion
+3355,1458,accessories
+3356,3022,accessories
+3357,2602,sports
+3358,6968,sports
+3359,7193,fashion
+3360,7926,electronics
+3361,5289,footwear
+3362,7893,sports
+3363,2730,beauty
+3364,3522,fashion
+3365,2288,beauty
+3366,7922,footwear
+3367,1268,sports
+3368,3538,electronics
+3369,1116,accessories
+3370,3565,footwear
+3371,2923,electronics
+3372,3072,footwear
+3373,1211,sports
+3374,7680,fashion
+3375,6860,electronics
+3376,4368,home decor
+3377,3667,fashion
+3378,6116,fashion
+3379,2859,footwear
+3380,1055,beauty
+3381,2541,fashion
+3382,5974,footwear
+3383,3168,fashion
+3384,1005,sports
+3385,5321,beauty
+3386,5244,electronics
+3387,2257,electronics
+3388,5954,home decor
+3389,7098,fashion
+3390,1090,beauty
+3391,7210,home decor
+3392,2752,footwear
+3393,3081,fashion
+3394,7602,beauty
+3395,3459,beauty
+3396,6940,accessories
+3397,7105,footwear
+3398,7372,home decor
+3399,7192,home decor
+3400,1106,accessories
+3401,4377,beauty
+3402,5360,fashion
+3403,4100,beauty
+3404,3449,beauty
+3405,6800,beauty
+3406,5636,electronics
+3407,5780,home decor
+3408,2023,footwear
+3409,3902,electronics
+3410,2518,fashion
+3411,6523,electronics
+3412,3349,accessories
+3413,5676,footwear
+3414,2695,footwear
+3415,3116,footwear
+3416,5821,electronics
+3417,3941,fashion
+3418,2586,fashion
+3419,1334,accessories
+3420,7397,beauty
+3421,5022,accessories
+3422,6403,sports
+3423,2697,sports
+3424,4003,accessories
+3425,6946,fashion
+3426,3747,fashion
+3427,7234,beauty
+3428,3211,footwear
+3429,6688,electronics
+3430,3524,electronics
+3431,2055,accessories
+3432,6811,home decor
+3433,5567,sports
+3434,3906,home decor
+3435,4435,sports
+3436,5949,electronics
+3437,7266,home decor
+3438,7064,sports
+3439,5841,footwear
+3440,2402,fashion
+3441,5218,beauty
+3442,4776,home decor
+3443,7260,home decor
+3444,1145,home decor
+3445,6317,sports
+3446,5314,home decor
+3447,6286,sports
+3448,7454,footwear
+3449,1884,beauty
+3450,1386,accessories
+3451,2862,electronics
+3452,1052,beauty
+3453,7348,fashion
+3454,3357,footwear
+3455,3282,footwear
+3456,6138,footwear
+3457,5948,beauty
+3458,5056,sports
+3459,6256,electronics
+3460,7326,beauty
+3461,7474,fashion
+3462,6074,accessories
+3463,6952,beauty
+3464,6640,beauty
+3465,5678,home decor
+3466,6017,electronics
+3467,6219,footwear
+3468,3540,footwear
+3469,6131,home decor
+3470,4792,footwear
+3471,3962,sports
+3472,1969,accessories
+3473,3090,fashion
+3474,4763,accessories
+3475,5427,footwear
+3476,2703,footwear
+3477,6390,footwear
+3478,5707,footwear
+3479,4319,home decor
+3480,3673,electronics
+3481,6792,footwear
+3482,7577,beauty
+3483,5596,electronics
+3484,1202,accessories
+3485,1748,footwear
+3486,6977,accessories
+3487,2201,sports
+3488,6661,beauty
+3489,4552,beauty
+3490,2004,electronics
+3491,6428,sports
+3492,3763,beauty
+3493,5256,footwear
+3494,1158,electronics
+3495,3499,sports
+3496,5374,beauty
+3497,2253,beauty
+3498,4970,home decor
+3499,6129,home decor
+3500,7643,home decor
+3501,7265,electronics
+3502,1534,beauty
+3503,3407,accessories
+3504,7220,footwear
+3505,3816,fashion
+3506,1535,footwear
+3507,7720,accessories
+3508,1497,beauty
+3509,3412,fashion
+3510,6624,home decor
+3511,1933,footwear
+3512,7096,fashion
+3513,5279,home decor
+3514,2875,fashion
+3515,6993,home decor
+3516,2000,fashion
+3517,6357,sports
+3518,5092,sports
+3519,5516,electronics
+3520,3767,electronics
+3521,7725,fashion
+3522,2993,home decor
+3523,7978,footwear
+3524,5856,electronics
+3525,1819,electronics
+3526,4672,home decor
+3527,5834,electronics
+3528,5544,home decor
+3529,3300,sports
+3530,1973,home decor
+3531,4407,home decor
+3532,1488,electronics
+3533,1065,accessories
+3534,1877,fashion
+3535,5539,sports
+3536,7311,beauty
+3537,7248,beauty
+3538,3069,home decor
+3539,1719,beauty
+3540,1991,electronics
+3541,5195,footwear
+3542,1763,footwear
+3543,4505,sports
+3544,6744,sports
+3545,3087,fashion
+3546,5073,beauty
+3547,2391,footwear
+3548,4544,sports
+3549,2026,sports
+3550,5937,electronics
+3551,3891,home decor
+3552,3209,electronics
+3553,1293,accessories
+3554,4412,beauty
+3555,4786,beauty
+3556,4449,footwear
+3557,6960,electronics
+3558,6905,electronics
+3559,4178,home decor
+3560,4768,home decor
+3561,3806,sports
+3562,5484,beauty
+3563,3870,home decor
+3564,6841,fashion
+3565,6965,fashion
+3566,2476,fashion
+3567,4129,beauty
+3568,5753,fashion
+3569,4314,fashion
+3570,5357,footwear
+3571,5693,beauty
+3572,5858,accessories
+3573,3079,footwear
+3574,7232,home decor
+3575,3778,sports
+3576,1538,electronics
+3577,7023,accessories
+3578,4234,electronics
+3579,5113,sports
+3580,7038,sports
+3581,3575,fashion
+3582,4742,accessories
+3583,3424,beauty
+3584,3277,accessories
+3585,5477,footwear
+3586,1753,footwear
+3587,3849,footwear
+3588,2515,beauty
+3589,7864,electronics
+3590,2929,sports
+3591,3922,footwear
+3592,4431,electronics
+3593,2740,home decor
+3594,4576,beauty
+3595,5773,beauty
+3596,1271,beauty
+3597,1666,home decor
+3598,5991,sports
+3599,1879,footwear
+3600,3588,beauty
+3601,6446,fashion
+3602,5705,electronics
+3603,6365,accessories
+3604,3217,beauty
+3605,4247,sports
+3606,2280,fashion
+3607,1133,electronics
+3608,2526,footwear
+3609,1291,sports
+3610,1526,fashion
+3611,2216,home decor
+3612,4096,electronics
+3613,2877,electronics
+3614,7589,accessories
+3615,3118,electronics
+3616,3314,fashion
+3617,5078,fashion
+3618,3615,accessories
+3619,7294,sports
+3620,5887,footwear
+3621,7517,fashion
+3622,1003,beauty
+3623,5861,fashion
+3624,5090,sports
+3625,7715,electronics
+3626,6793,sports
+3627,7046,footwear
+3628,6029,electronics
+3629,3491,sports
+3630,7670,fashion
+3631,7885,accessories
+3632,2671,footwear
+3633,4039,sports
+3634,5835,fashion
+3635,3031,electronics
+3636,4619,beauty
+3637,7082,sports
+3638,7508,fashion
+3639,5133,fashion
+3640,6931,footwear
+3641,3467,beauty
+3642,6397,home decor
+3643,7406,accessories
+3644,3893,sports
+3645,2158,footwear
+3646,1600,electronics
+3647,5104,accessories
+3648,7528,home decor
+3649,1682,footwear
+3650,6458,sports
+3651,5689,footwear
+3652,2214,sports
+3653,7854,electronics
+3654,6103,sports
+3655,2596,beauty
+3656,4596,footwear
+3657,3547,footwear
+3658,4533,home decor
+3659,7377,fashion
+3660,7950,fashion
+3661,2389,footwear
+3662,3464,fashion
+3663,2226,electronics
+3664,3573,accessories
+3665,4620,fashion
+3666,1500,footwear
+3667,7293,electronics
+3668,5425,fashion
+3669,6476,electronics
+3670,6813,footwear
+3671,2652,home decor
+3672,2965,fashion
+3673,4542,fashion
+3674,4710,beauty
+3675,6672,electronics
+3676,1033,fashion
+3677,3094,fashion
+3678,5627,footwear
+3679,1860,electronics
+3680,6737,beauty
+3681,4464,electronics
+3682,3411,sports
+3683,1945,accessories
+3684,1691,electronics
+3685,7530,accessories
+3686,4584,accessories
+3687,5318,fashion
+3688,1505,sports
+3689,1823,fashion
+3690,2813,beauty
+3691,7405,home decor
+3692,1001,fashion
+3693,6579,footwear
+3694,5165,accessories
+3695,4728,sports
+3696,2235,fashion
+3697,1543,sports
+3698,2168,home decor
+3699,4574,fashion
+3700,5144,electronics
+3701,7891,electronics
+3702,1037,fashion
+3703,3595,sports
+3704,1303,beauty
+3705,1167,electronics
+3706,6831,fashion
+3707,3451,sports
+3708,5607,footwear
+3709,5006,home decor
+3710,4420,beauty
+3711,5039,electronics
+3712,6432,electronics
+3713,5160,electronics
+3714,6725,fashion
+3715,6644,footwear
+3716,2768,sports
+3717,3992,beauty
+3718,1602,beauty
+3719,1935,home decor
+3720,4165,fashion
+3721,5546,footwear
+3722,2583,sports
+3723,5574,beauty
+3724,2354,home decor
+3725,1657,home decor
+3726,6056,electronics
+3727,2233,footwear
+3728,2546,accessories
+3729,3244,home decor
+3730,7167,footwear
+3731,2249,home decor
+3732,1361,electronics
+3733,3561,sports
+3734,3699,beauty
+3735,7401,fashion
+3736,7065,sports
+3737,4932,sports
+3738,7916,beauty
+3739,7250,sports
+3740,3229,footwear
+3741,5382,accessories
+3742,5626,electronics
+3743,2642,home decor
+3744,1702,sports
+3745,5660,electronics
+3746,6668,electronics
+3747,4626,home decor
+3748,6506,accessories
+3749,6810,sports
+3750,2081,accessories
+3751,3007,fashion
+3752,7476,footwear
+3753,3071,home decor
+3754,6941,home decor
+3755,4994,beauty
+3756,1122,footwear
+3757,7469,footwear
+3758,6756,sports
+3759,3629,fashion
+3760,5368,beauty
+3761,7051,sports
+3762,2471,accessories
+3763,7862,beauty
+3764,4891,beauty
+3765,3896,accessories
+3766,5120,beauty
+3767,4627,sports
+3768,2501,fashion
+3769,1490,electronics
+3770,1551,fashion
+3771,4012,home decor
+3772,2455,fashion
+3773,4512,home decor
+3774,7127,beauty
+3775,3345,home decor
+3776,2001,footwear
+3777,4746,footwear
+3778,6651,footwear
+3779,4457,electronics
+3780,2568,footwear
+3781,5771,beauty
+3782,2979,accessories
+3783,2708,home decor
+3784,6202,sports
+3785,3394,footwear
+3786,6718,accessories
+3787,7279,beauty
+3788,3753,home decor
+3789,1216,sports
+3790,5652,electronics
+3791,2884,beauty
+3792,7933,electronics
+3793,1246,electronics
+3794,1507,beauty
+3795,7767,accessories
+3796,2258,sports
+3797,2266,home decor
+3798,7796,beauty
+3799,2922,footwear
+3800,2262,sports
+3801,4251,sports
+3802,2705,accessories
+3803,4498,sports
+3804,2507,home decor
+3805,7148,beauty
+3806,1231,accessories
+3807,7002,beauty
+3808,6659,fashion
+3809,7062,accessories
+3810,6546,sports
+3811,1548,electronics
+3812,7289,footwear
+3813,3018,sports
+3814,3330,accessories
+3815,6741,home decor
+3816,5944,home decor
+3817,6134,beauty
+3818,2913,footwear
+3819,7578,home decor
+3820,7156,footwear
+3821,6900,beauty
+3822,2592,accessories
+3823,2831,accessories
+3824,4171,footwear
+3825,3839,accessories
+3826,6175,accessories
+3827,3869,sports
+3828,7939,electronics
+3829,5284,beauty
+3830,2385,fashion
+3831,2668,electronics
+3832,6648,fashion
+3833,5243,footwear
+3834,5935,fashion
+3835,4751,beauty
+3836,4068,beauty
+3837,7119,footwear
+3838,1457,sports
+3839,5304,home decor
+3840,5653,sports
+3841,4439,sports
+3842,4283,footwear
+3843,7938,sports
+3844,6683,footwear
+3845,6125,beauty
+3846,6092,beauty
+3847,1434,beauty
+3848,1376,sports
+3849,4348,beauty
+3850,4781,beauty
+3851,3914,fashion
+3852,4253,accessories
+3853,2698,home decor
+3854,5396,fashion
+3855,5788,home decor
+3856,3232,accessories
+3857,3632,sports
+3858,3095,beauty
+3859,1723,electronics
+3860,2502,accessories
+3861,7940,footwear
+3862,7575,footwear
+3863,3719,sports
+3864,6169,accessories
+3865,1813,accessories
+3866,2669,footwear
+3867,5248,beauty
+3868,1976,sports
+3869,3616,home decor
+3870,1570,home decor
+3871,7126,home decor
+3872,4630,beauty
+3873,2702,accessories
+3874,3529,electronics
+3875,4875,accessories
+3876,1068,sports
+3877,6705,accessories
+3878,7235,home decor
+3879,6064,fashion
+3880,4362,accessories
+3881,5124,beauty
+3882,6156,home decor
+3883,4582,home decor
+3884,5761,home decor
+3885,7025,electronics
+3886,6488,fashion
+3887,2414,accessories
+3888,5213,footwear
+3889,1000,sports
+3890,2296,beauty
+3891,7631,accessories
+3892,2416,beauty
+3893,6770,fashion
+3894,7738,footwear
+3895,2463,footwear
+3896,1078,home decor
+3897,2722,accessories
+3898,3689,footwear
+3899,3717,fashion
+3900,4796,accessories
+3901,4991,electronics
+3902,4011,fashion
+3903,2184,electronics
+3904,7956,home decor
+3905,7513,sports
+3906,2694,sports
+3907,2193,accessories
+3908,4433,electronics
+3909,5276,home decor
+3910,1815,home decor
+3911,7179,sports
+3912,3276,home decor
+3913,3652,home decor
+3914,2114,accessories
+3915,3167,footwear
+3916,5228,accessories
+3917,1577,home decor
+3918,3554,sports
+3919,7630,sports
+3920,1990,footwear
+3921,5277,accessories
+3922,5298,fashion
+3923,3568,beauty
+3924,7410,accessories
+3925,1470,footwear
+3926,4492,sports
+3927,3507,accessories
+3928,5012,sports
+3929,7921,accessories
+3930,4212,footwear
+3931,4191,sports
+3932,6060,footwear
+3933,1413,electronics
+3934,6487,beauty
+3935,1929,sports
+3936,4661,home decor
+3937,4575,footwear
+3938,1919,beauty
+3939,1844,beauty
+3940,6591,sports
+3941,2686,sports
+3942,1846,sports
+3943,3809,electronics
+3944,4637,footwear
+3945,7543,footwear
+3946,1353,home decor
+3947,7890,accessories
+3948,5800,sports
+3949,7913,footwear
+3950,6424,fashion
+3951,2932,fashion
+3952,1583,home decor
+3953,2180,accessories
+3954,5466,electronics
+3955,1874,sports
+3956,2539,accessories
+3957,2133,sports
+3958,1377,accessories
+3959,2051,accessories
+3960,5468,beauty
+3961,7754,fashion
+3962,3628,footwear
+3963,4832,sports
+3964,7154,electronics
+3965,6577,sports
+3966,4338,sports
+3967,1104,home decor
+3968,1614,beauty
+3969,2041,accessories
+3970,2318,electronics
+3971,5429,electronics
+3972,7324,footwear
+3973,2251,electronics
+3974,6848,fashion
+3975,7152,electronics
+3976,3250,home decor
+3977,4711,fashion
+3978,6491,beauty
+3979,6662,fashion
+3980,7368,electronics
+3981,3686,accessories
+3982,1358,beauty
+3983,6105,beauty
+3984,5634,accessories
+3985,5674,home decor
+3986,6702,fashion
+3987,1999,home decor
+3988,3214,footwear
+3989,2842,fashion
+3990,4831,accessories
+3991,5615,home decor
+3992,6720,fashion
+3993,6185,fashion
+3994,2191,electronics
+3995,2581,electronics
+3996,7142,home decor
+3997,6641,home decor
+3998,6745,sports
+3999,5559,fashion
+4000,1718,fashion
+4001,7086,sports
+4002,1896,sports
+4003,4895,sports
+4004,3210,electronics
+4005,5416,electronics
+4006,1207,electronics
+4007,4556,footwear
+4008,5642,accessories
+4009,3358,sports
+4010,4745,home decor
+4011,1020,footwear
+4012,6913,beauty
+4013,3061,sports
+4014,3193,home decor
+4015,5951,fashion
+4016,2570,home decor
+4017,7389,beauty
+4018,6647,sports
+4019,1572,fashion
+4020,5453,home decor
+4021,7676,home decor
+4022,2837,beauty
+4023,6619,home decor
+4024,3406,electronics
+4025,4496,electronics
+4026,4287,footwear
+4027,3323,accessories
+4028,3516,footwear
+4029,4313,footwear
+4030,3723,sports
+4031,5677,sports
+4032,7756,home decor
+4033,1265,electronics
+4034,7604,home decor
+4035,1847,electronics
+4036,6971,home decor
+4037,1730,beauty
+4038,1910,home decor
+4039,6095,electronics
+4040,4557,accessories
+4041,6109,home decor
+4042,4975,fashion
+4043,1387,home decor
+4044,3751,home decor
+4045,5336,home decor
+4046,5601,accessories
+4047,5310,sports
+4048,2651,home decor
+4049,3006,sports
+4050,5481,beauty
+4051,1194,beauty
+4052,4187,accessories
+4053,7323,sports
+4054,7315,sports
+4055,7583,home decor
+4056,6308,sports
+4057,6032,sports
+4058,7408,beauty
+4059,4286,footwear
+4060,4486,home decor
+4061,5407,fashion
+4062,4851,fashion
+4063,6699,beauty
+4064,4164,beauty
+4065,3160,beauty
+4066,4646,fashion
+4067,3402,electronics
+4068,7611,beauty
+4069,3675,home decor
+4070,1706,beauty
+4071,2469,home decor
+4072,6366,fashion
+4073,3560,sports
+4074,3944,accessories
+4075,7721,fashion
+4076,5201,fashion
+4077,4177,sports
+4078,7740,home decor
+4079,4009,fashion
+4080,5159,footwear
+4081,3754,fashion
+4082,5685,footwear
+4083,1477,electronics
+4084,6221,beauty
+4085,5790,home decor
+4086,3264,footwear
+4087,2062,sports
+4088,7201,beauty
+4089,4258,accessories
+4090,1125,electronics
+4091,1799,sports
+4092,4898,electronics
+4093,6622,beauty
+4094,4801,beauty
+4095,2461,footwear
+4096,7213,fashion
+4097,4754,fashion
+4098,6039,home decor
+4099,6511,electronics
+4100,6447,home decor
+4101,3156,sports
+4102,4017,fashion
+4103,1851,sports
+4104,6616,footwear
+4105,5764,fashion
+4106,4393,footwear
+4107,5621,fashion
+4108,2134,beauty
+4109,6415,electronics
+4110,4517,sports
+4111,5261,footwear
+4112,1392,beauty
+4113,2942,footwear
+4114,3293,accessories
+4115,4648,beauty
+4116,7887,sports
+4117,7510,sports
+4118,5758,home decor
+4119,1609,electronics
+4120,6215,home decor
+4121,1946,home decor
+4122,3557,home decor
+4123,6346,beauty
+4124,6232,footwear
+4125,6808,beauty
+4126,2893,footwear
+4127,1053,electronics
+4128,6867,electronics
+4129,6107,electronics
+4130,5785,beauty
+4131,1451,accessories
+4132,6534,home decor
+4133,7968,accessories
+4134,1277,accessories
+4135,7580,home decor
+4136,4202,electronics
+4137,5637,fashion
+4138,3916,sports
+4139,5111,sports
+4140,5910,fashion
+4141,4931,home decor
+4142,7501,home decor
+4143,2553,footwear
+4144,1836,fashion
+4145,7281,sports
+4146,6864,footwear
+4147,7712,home decor
+4148,1139,sports
+4149,6987,fashion
+4150,6304,fashion
+4151,6646,sports
+4152,2095,footwear
+4153,1957,electronics
+4154,6846,home decor
+4155,6766,home decor
+4156,4391,beauty
+4157,7206,sports
+4158,3702,sports
+4159,6817,fashion
+4160,5614,electronics
+4161,5278,accessories
+4162,5595,home decor
+4163,5148,home decor
+4164,1149,sports
+4165,3452,footwear
+4166,1345,accessories
+4167,2353,fashion
+4168,6573,footwear
+4169,2943,home decor
+4170,6711,sports
+4171,5342,electronics
+4172,5860,fashion
+4173,5091,footwear
+4174,1529,fashion
+4175,6381,home decor
+4176,5643,electronics
+4177,5334,accessories
+4178,2630,accessories
+4179,2672,footwear
+4180,2643,accessories
+4181,7814,home decor
+4182,2835,footwear
+4183,3348,electronics
+4184,2732,footwear
+4185,7029,sports
+4186,6838,sports
+4187,1080,footwear
+4188,4352,home decor
+4189,3395,home decor
+4190,2459,fashion
+4191,2533,home decor
+4192,2198,fashion
+4193,6907,fashion
+4194,2776,beauty
+4195,6235,beauty
+4196,5214,beauty
+4197,1161,beauty
+4198,1715,beauty
+4199,5129,footwear
+4200,3338,footwear
+4201,7074,electronics
+4202,2337,fashion
+4203,1029,fashion
+4204,2440,sports
+4205,3399,sports
+4206,2895,beauty
+4207,4411,beauty
+4208,2534,home decor
+4209,4936,home decor
+4210,2951,sports
+4211,4842,accessories
+4212,6828,electronics
+4213,7070,sports
+4214,4818,sports
+4215,3016,electronics
+4216,3347,footwear
+4217,5936,fashion
+4218,4057,sports
+4219,5451,home decor
+4220,2608,electronics
+4221,1480,electronics
+4222,4266,home decor
+4223,6759,electronics
+4224,2209,fashion
+4225,6805,beauty
+4226,4143,sports
+4227,5138,fashion
+4228,2164,accessories
+4229,4052,home decor
+4230,3233,home decor
+4231,4326,sports
+4232,3511,accessories
+4233,6742,fashion
+4234,2924,home decor
+4235,4399,electronics
+4236,7996,footwear
+4237,7420,accessories
+4238,6612,fashion
+4239,7999,fashion
+4240,6979,accessories
+4241,1300,accessories
+4242,3711,home decor
+4243,7060,electronics
+4244,6147,fashion
+4245,5640,sports
+4246,1925,home decor
+4247,2928,beauty
+4248,4945,accessories
+4249,5370,footwear
+4250,4007,beauty
+4251,7417,beauty
+4252,3528,fashion
+4253,7314,home decor
+4254,1893,home decor
+4255,4518,electronics
+4256,6578,footwear
+4257,4415,home decor
+4258,6610,fashion
+4259,4730,home decor
+4260,6236,footwear
+4261,2750,accessories
+4262,2478,electronics
+4263,6615,footwear
+4264,6133,footwear
+4265,5810,home decor
+4266,3057,electronics
+4267,3792,accessories
+4268,4663,footwear
+4269,7778,sports
+4270,3871,footwear
+4271,1661,electronics
+4272,6187,electronics
+4273,4459,fashion
+4274,3469,sports
+4275,5888,beauty
+4276,3490,accessories
+4277,4389,accessories
+4278,4041,accessories
+4279,6710,electronics
+4280,6840,sports
+4281,2149,sports
+4282,2015,home decor
+4283,7651,sports
+4284,1514,sports
+4285,3549,fashion
+4286,2573,accessories
+4287,4941,footwear
+4288,3334,footwear
+4289,1024,footwear
+4290,5348,fashion
+4291,3556,fashion
+4292,2071,footwear
+4293,2677,home decor
+4294,5430,electronics
+4295,3838,accessories
+4296,6057,fashion
+4297,5326,fashion
+4298,5042,sports
+4299,1346,accessories
+4300,5757,beauty
+4301,6136,sports
+4302,4896,accessories
+4303,5253,beauty
+4304,3033,fashion
+4305,7655,accessories
+4306,3501,fashion
+4307,5105,accessories
+4308,3444,accessories
+4309,1221,beauty
+4310,5293,sports
+4311,1190,sports
+4312,5323,fashion
+4313,6528,footwear
+4314,2787,sports
+4315,7428,accessories
+4316,6068,fashion
+4317,6119,accessories
+4318,6882,accessories
+4319,4360,footwear
+4320,1227,home decor
+4321,1394,home decor
+4322,7488,fashion
+4323,7432,fashion
+4324,3601,fashion
+4325,3037,footwear
+4326,3584,fashion
+4327,4953,footwear
+4328,6070,electronics
+4329,1040,accessories
+4330,6524,accessories
+4331,6888,accessories
+4332,7989,footwear
+4333,5175,beauty
+4334,2810,beauty
+4335,2246,sports
+4336,5067,home decor
+4337,2986,footwear
+4338,5225,footwear
+4339,7628,accessories
+4340,2169,fashion
+4341,3743,fashion
+4342,4328,beauty
+4343,1628,home decor
+4344,6020,fashion
+4345,1285,electronics
+4346,3793,sports
+4347,3904,accessories
+4348,3882,footwear
+4349,4034,accessories
+4350,7935,electronics
+4351,4520,electronics
+4352,1568,footwear
+4353,3129,sports
+4354,2640,home decor
+4355,2544,sports
+4356,5717,home decor
+4357,3824,fashion
+4358,7121,footwear
+4359,2663,beauty
+4360,1352,home decor
+4361,6781,electronics
+4362,1525,beauty
+4363,1746,beauty
+4364,1032,footwear
+4365,2410,fashion
+4366,6172,electronics
+4367,1567,home decor
+4368,2092,fashion
+4369,3329,beauty
+4370,2395,footwear
+4371,2508,sports
+4372,3665,accessories
+4373,7009,footwear
+4374,2166,footwear
+4375,1273,sports
+4376,4774,sports
+4377,6319,beauty
+4378,5770,electronics
+4379,1758,footwear
+4380,4430,beauty
+4381,4447,home decor
+4382,3883,beauty
+4383,4560,electronics
+4384,1544,accessories
+4385,4686,beauty
+4386,7584,accessories
+4387,5050,beauty
+4388,3766,fashion
+4389,4704,electronics
+4390,3785,electronics
+4391,7195,electronics
+4392,5379,beauty
+4393,6401,footwear
+4394,6093,footwear
+4395,4594,electronics
+4396,2921,electronics
+4397,6538,accessories
+4398,4085,beauty
+4399,5102,sports
+4400,5450,home decor
+4401,5339,fashion
+4402,1964,accessories
+4403,3593,electronics
+4404,4755,electronics
+4405,5095,fashion
+4406,5968,sports
+4407,4886,beauty
+4408,4201,sports
+4409,7079,sports
+4410,5708,home decor
+4411,4764,beauty
+4412,2844,electronics
+4413,7605,fashion
+4414,6154,electronics
+4415,6598,footwear
+4416,6330,beauty
+4417,5645,home decor
+4418,5131,beauty
+4419,6600,footwear
+4420,2719,fashion
+4421,1137,fashion
+4422,5302,home decor
+4423,6006,sports
+4424,7055,sports
+4425,7664,accessories
+4426,6981,fashion
+4427,4320,accessories
+4428,7880,footwear
+4429,2044,beauty
+4430,3802,accessories
+4431,7292,accessories
+4432,4673,footwear
+4433,1667,fashion
+4434,2379,footwear
+4435,4500,home decor
+4436,6384,sports
+4437,4413,footwear
+4438,4091,sports
+4439,1059,electronics
+4440,3851,sports
+4441,5419,beauty
+4442,2953,sports
+4443,2321,sports
+4444,3973,fashion
+4445,1581,fashion
+4446,4471,electronics
+4447,6922,home decor
+4448,7900,sports
+4449,2733,beauty
+4450,7134,footwear
+4451,7932,footwear
+4452,4331,accessories
+4453,2784,beauty
+4454,7285,electronics
+4455,6171,electronics
+4456,2680,electronics
+4457,1671,electronics
+4458,6801,sports
+4459,4252,electronics
+4460,2360,beauty
+4461,5573,home decor
+4462,1808,footwear
+4463,2503,beauty
+4464,5616,home decor
+4465,1066,electronics
+4466,7466,electronics
+4467,5570,home decor
+4468,2208,footwear
+4469,3019,sports
+4470,3508,beauty
+4471,1356,accessories
+4472,1312,sports
+4473,2165,fashion
+4474,1478,fashion
+4475,7425,footwear
+4476,1660,fashion
+4477,4550,electronics
+4478,3377,electronics
+4479,1621,sports
+4480,3581,accessories
+4481,3150,fashion
+4482,5428,beauty
+4483,7022,sports
+4484,4356,home decor
+4485,7920,accessories
+4486,2940,home decor
+4487,1272,footwear
+4488,4681,beauty
+4489,6179,electronics
+4490,2397,sports
+4491,6886,electronics
+4492,7334,sports
+4493,4567,beauty
+4494,4138,accessories
+4495,5718,accessories
+4496,2038,footwear
+4497,7143,sports
+4498,1644,accessories
+4499,5564,home decor
+4500,2588,electronics
+4501,1792,footwear
+4502,4694,fashion
+4503,1442,electronics
+4504,5146,electronics
+4505,7827,footwear
+4506,7332,footwear
+4507,3847,fashion
+4508,3773,footwear
+4509,2664,electronics
+4510,1740,accessories
+4511,5375,sports
+4512,6721,beauty
+4513,2086,electronics
+4514,6621,fashion
+4515,6708,accessories
+4516,5852,beauty
+4517,3120,accessories
+4518,4299,electronics
+4519,4907,electronics
+4520,7110,fashion
+4521,1754,beauty
+4522,3419,fashion
+4523,6778,home decor
+4524,3623,fashion
+4525,4233,footwear
+4526,2764,sports
+4527,5470,accessories
+4528,7699,sports
+4529,5903,sports
+4530,2547,fashion
+4531,7866,electronics
+4532,1704,home decor
+4533,3583,footwear
+4534,2918,fashion
+4535,6009,home decor
+4536,3119,home decor
+4537,1689,electronics
+4538,3550,electronics
+4539,7502,sports
+4540,3133,footwear
+4541,1140,fashion
+4542,3396,electronics
+4543,3690,footwear
+4544,1414,beauty
+4545,7617,footwear
+4546,6112,beauty
+4547,6512,home decor
+4548,7224,sports
+4549,5378,beauty
+4550,2712,accessories
+4551,1771,electronics
+4552,4157,accessories
+4553,2906,fashion
+4554,3775,electronics
+4555,4934,home decor
+4556,5530,footwear
+4557,6949,footwear
+4558,7923,accessories
+4559,7421,accessories
+4560,1588,sports
+4561,2807,electronics
+4562,1859,footwear
+4563,3321,electronics
+4564,6834,footwear
+4565,3704,footwear
+4566,4955,sports
+4567,2364,footwear
+4568,6752,beauty
+4569,4232,beauty
+4570,7931,electronics
+4571,5388,accessories
+4572,7625,beauty
+4573,1463,home decor
+4574,3303,footwear
+4575,1173,footwear
+4576,4897,home decor
+4577,3204,footwear
+4578,5612,beauty
+4579,2761,footwear
+4580,1770,electronics
+4581,2904,accessories
+4582,6604,fashion
+4583,4121,sports
+4584,5871,sports
+4585,1396,footwear
+4586,4353,footwear
+4587,6410,electronics
+4588,5072,sports
+4589,4688,fashion
+4590,4885,accessories
+4591,7903,sports
+4592,4323,accessories
+4593,1811,sports
+4594,2729,home decor
+4595,2231,home decor
+4596,7402,electronics
+4597,7422,electronics
+4598,6575,beauty
+4599,6821,beauty
+4600,5344,fashion
+4601,7438,beauty
+4602,3803,beauty
+4603,6470,footwear
+4604,5712,accessories
+4605,2439,footwear
+4606,2607,sports
+4607,2484,footwear
+4608,6375,footwear
+4609,2559,electronics
+4610,4874,beauty
+4611,7337,accessories
+4612,2245,accessories
+4613,5775,accessories
+4614,2221,footwear
+4615,3822,beauty
+4616,2075,fashion
+4617,2747,beauty
+4618,2786,fashion
+4619,2431,home decor
+4620,5137,footwear
+4621,3376,home decor
+4622,6849,home decor
+4623,1337,home decor
+4624,6027,beauty
+4625,5083,accessories
+4626,6637,accessories
+4627,2057,footwear
+4628,4380,fashion
+4629,3654,fashion
+4630,1503,accessories
+4631,7794,home decor
+4632,4071,fashion
+4633,6933,sports
+4634,3370,sports
+4635,1415,electronics
+4636,5582,beauty
+4637,7288,electronics
+4638,2014,fashion
+4639,4124,electronics
+4640,6277,beauty
+4641,5597,footwear
+4642,1594,fashion
+4643,1824,home decor
+4644,7191,home decor
+4645,7186,beauty
+4646,5669,sports
+4647,5820,electronics
+4648,2072,accessories
+4649,5171,home decor
+4650,7185,sports
+4651,1331,fashion
+4652,1397,sports
+4653,1736,beauty
+4654,7581,home decor
+4655,2130,sports
+4656,3555,fashion
+4657,7765,footwear
+4658,2723,footwear
+4659,4877,electronics
+4660,2481,fashion
+4661,6837,accessories
+4662,4108,home decor
+4663,2947,fashion
+4664,2049,beauty
+4665,1593,home decor
+4666,5692,fashion
+4667,4880,electronics
+4668,4408,home decor
+4669,2096,fashion
+4670,7698,fashion
+4671,4734,sports
+4672,6209,electronics
+4673,4890,sports
+4674,7958,electronics
+4675,6594,footwear
+4676,7775,electronics
+4677,1453,fashion
+4678,1079,fashion
+4679,3679,footwear
+4680,2034,fashion
+4681,2738,fashion
+4682,7533,accessories
+4683,3038,fashion
+4684,7159,footwear
+4685,1101,fashion
+4686,4628,fashion
+4687,6124,sports
+4688,5098,fashion
+4689,1765,home decor
+4690,6819,footwear
+4691,2717,accessories
+4692,2605,beauty
+4693,2781,beauty
+4694,5297,home decor
+4695,2175,home decor
+4696,5385,beauty
+4697,7299,footwear
+4698,2107,electronics
+4699,5998,accessories
+4700,3727,accessories
+4701,7139,electronics
+4702,3299,sports
+4703,3325,home decor
+4704,1988,sports
+4705,6333,fashion
+4706,7809,fashion
+4707,2160,home decor
+4708,1832,electronics
+4709,1475,accessories
+4710,2912,sports
+4711,3842,home decor
+4712,6505,home decor
+4713,3742,sports
+4714,6121,electronics
+4715,2767,accessories
+4716,1209,accessories
+4717,4782,fashion
+4718,6327,electronics
+4719,5872,beauty
+4720,3563,home decor
+4721,1301,fashion
+4722,1054,sports
+4723,2348,beauty
+4724,3876,accessories
+4725,2317,beauty
+4726,3254,home decor
+4727,7761,fashion
+4728,4135,home decor
+4729,2077,home decor
+4730,3801,footwear
+4731,7118,electronics
+4732,1646,accessories
+4733,7056,electronics
+4734,2636,electronics
+4735,7970,sports
+4736,4853,sports
+4737,2181,footwear
+4738,7544,beauty
+4739,7870,beauty
+4740,6862,accessories
+4741,3195,footwear
+4742,6036,sports
+4743,6059,home decor
+4744,7391,fashion
+4745,2371,electronics
+4746,4995,beauty
+4747,7821,home decor
+4748,5271,fashion
+4749,5648,footwear
+4750,1426,footwear
+4751,5024,footwear
+4752,3492,sports
+4753,5021,sports
+4754,7969,home decor
+4755,4194,beauty
+4756,4748,beauty
+4757,7658,sports
+4758,7667,electronics
+4759,3533,fashion
+4760,1797,accessories
+4761,3248,accessories
+4762,5563,beauty
+4763,7710,electronics
+4764,3625,beauty
+4765,3975,footwear
+4766,7153,electronics
+4767,1692,beauty
+4768,2757,accessories
+4769,6695,home decor
+4770,2005,accessories
+4771,3829,sports
+4772,1163,electronics
+4773,4827,sports
+4774,7911,sports
+4775,4817,footwear
+4776,1316,footwear
+4777,2891,sports
+4778,5694,accessories
+4779,5134,footwear
+4780,7132,home decor
+4781,1561,electronics
+4782,7328,sports
+4783,2029,fashion
+4784,7550,fashion
+4785,4713,home decor
+4786,1355,sports
+4787,6460,beauty
+4788,4046,home decor
+4789,4277,sports
+4790,1172,sports
+4791,1018,home decor
+4792,6326,beauty
+4793,6293,footwear
+4794,4605,accessories
+4795,4762,footwear
+4796,4805,accessories
+4797,2567,beauty
+4798,3706,beauty
+4799,6100,fashion
+4800,5064,accessories
+4801,3602,footwear
+4802,6620,beauty
+4803,2264,home decor
+4804,7441,sports
+4805,1564,home decor
+4806,1804,accessories
+4807,5069,sports
+4808,2195,fashion
+4809,5542,electronics
+4810,1887,electronics
+4811,3138,footwear
+4812,2281,sports
+4813,7183,beauty
+4814,5518,footwear
+4815,2843,footwear
+4816,6502,sports
+4817,2852,home decor
+4818,5554,footwear
+4819,4645,accessories
+4820,7087,home decor
+4821,2488,footwear
+4822,5117,beauty
+4823,1127,accessories
+4824,4289,fashion
+4825,5845,sports
+4826,2421,sports
+4827,4172,home decor
+4828,3885,beauty
+4829,2659,fashion
+4830,3985,fashion
+4831,1259,sports
+4832,2571,electronics
+4833,6053,sports
+4834,3430,fashion
+4835,1613,sports
+4836,7477,sports
+4837,3570,sports
+4838,1057,electronics
+4839,5246,fashion
+4840,4514,home decor
+4841,7582,fashion
+4842,3843,sports
+4843,7753,home decor
+4844,5281,accessories
+4845,2446,beauty
+4846,3715,footwear
+4847,2827,accessories
+4848,7674,footwear
+4849,5739,footwear
+4850,2864,sports
+4851,7733,accessories
+4852,7871,accessories
+4853,7458,footwear
+4854,6144,accessories
+4855,2617,accessories
+4856,5381,fashion
+4857,5234,fashion
+4858,4109,beauty
+4859,5474,accessories
+4860,7190,fashion
+4861,2411,beauty
+4862,4491,accessories
+4863,7371,beauty
+4864,7616,beauty
+4865,6467,electronics
+4866,7649,electronics
+4867,4837,electronics
+4868,6870,home decor
+4869,7061,accessories
+4870,7164,electronics
+4871,5619,fashion
+4872,2666,beauty
+4873,2917,fashion
+4874,5043,footwear
+4875,1562,footwear
+4876,6729,fashion
+4877,6085,electronics
+4878,7600,accessories
+4879,5611,home decor
+4880,5532,electronics
+4881,4604,electronics
+4882,1484,home decor
+4883,1263,home decor
+4884,4650,footwear
+4885,2089,home decor
+4886,3157,sports
+4887,2674,home decor
+4888,3638,beauty
+4889,6999,accessories
+4890,2039,sports
+4891,7912,footwear
+4892,7360,footwear
+4893,5971,fashion
+4894,1146,footwear
+4895,1224,sports
+4896,6021,beauty
+4897,4098,accessories
+4898,6307,footwear
+4899,6386,electronics
+4900,7601,electronics
+4901,1998,electronics
+4902,7573,electronics
+4903,3328,home decor
+4904,7745,footwear
+4905,3326,fashion
+4906,1105,fashion
+4907,6917,home decor
+4908,2299,beauty
+4909,1686,accessories
+4910,5592,beauty
+4911,2367,footwear
+4912,4611,electronics
+4913,7642,electronics
+4914,7478,electronics
+4915,2053,home decor
+4916,7512,footwear
+4917,2423,fashion
+4918,3436,accessories
+4919,3194,sports
+4920,5670,sports
+4921,4305,footwear
+4922,4364,accessories
+4923,5460,sports
+4924,3698,electronics
+4925,7115,home decor
+4926,5649,fashion
+4927,4400,footwear
+4928,5262,electronics
+4929,1255,electronics
+4930,4601,fashion
+4931,7896,footwear
+4932,5950,fashion
+4933,1160,sports
+4934,2259,sports
+4935,1274,accessories
+4936,2527,accessories
+4937,1332,home decor
+4938,6344,electronics
+4939,3934,beauty
+4940,4924,home decor
+4941,6268,electronics
+4942,3780,accessories
+4943,7997,beauty
+4944,2935,fashion
+4945,2420,home decor
+4946,2394,footwear
+4947,4714,footwear
+4948,7352,sports
+4949,2589,footwear
+4950,4555,fashion
+4951,1620,sports
+4952,2080,accessories
+4953,5422,fashion
+4954,6963,accessories
+4955,3230,sports
+4956,3367,electronics
+4957,4205,footwear
+4958,6137,electronics
+4959,4184,electronics
+4960,3076,beauty
+4961,2243,footwear
+4962,4417,fashion
+4963,6691,home decor
+4964,3447,electronics
+4965,4276,accessories
+4966,3291,home decor
+4967,5874,sports
+4968,3828,sports
+4969,3420,footwear
+4970,7684,sports
+4971,6281,sports
+4972,7034,sports
+4973,3416,footwear
+4974,3421,electronics
+4975,1378,footwear
+4976,4804,home decor
+4977,1086,sports
+4978,2499,sports
+4979,2753,accessories
+4980,6566,sports
+4981,1131,accessories
+4982,2464,sports
+4983,6743,accessories
+4984,3578,accessories
+4985,3268,accessories
+4986,6199,sports
+4987,5003,accessories
+4988,2930,electronics
+4989,3833,accessories
+4990,2142,footwear
+4991,5337,electronics
+4992,1278,accessories
+4993,7724,beauty
+4994,7374,home decor
+4995,1110,electronics
+4996,2514,sports
+4997,1325,beauty
+4998,3807,fashion
+4999,1856,accessories
+5000,3692,home decor
+5001,1262,electronics
+5002,4537,sports
+5003,4978,accessories
+5004,4454,home decor
+5005,5756,footwear
+5006,5587,accessories
+5007,6667,fashion
+5008,5493,accessories
+5009,5506,electronics
+5010,1176,beauty
+5011,4188,footwear
+5012,3968,accessories
+5013,3247,beauty
+5014,7244,fashion
+5015,6224,beauty
+5016,5749,fashion
+5017,1787,electronics
+5018,6217,accessories
+5019,4359,accessories
+5020,5174,beauty
+5021,1555,footwear
+5022,1370,beauty
+5023,7516,home decor
+5024,1473,footwear
+5025,6474,beauty
+5026,1563,home decor
+5027,4554,home decor
+5028,2540,electronics
+5029,4214,accessories
+5030,7703,beauty
+5031,4099,beauty
+5032,6736,accessories
+5033,7732,footwear
+5034,1936,fashion
+5035,5904,footwear
+5036,2326,home decor
+5037,3112,electronics
+5038,4581,footwear
+5039,3848,accessories
+5040,2970,fashion
+5041,7522,electronics
+5042,7562,sports
+5043,3463,electronics
+5044,1833,footwear
+5045,4833,fashion
+5046,6088,electronics
+5047,5870,electronics
+5048,4013,electronics
+5049,6850,fashion
+5050,4037,accessories
+5051,1638,sports
+5052,2696,footwear
+5053,2992,fashion
+5054,6079,accessories
+5055,4597,fashion
+5056,5581,fashion
+5057,5294,home decor
+5058,1634,beauty
+5059,7540,footwear
+5060,5185,sports
+5061,3220,fashion
+5062,6944,fashion
+5063,7835,home decor
+5064,4126,sports
+5065,1191,sports
+5066,1035,accessories
+5067,1119,accessories
+5068,4667,fashion
+5069,5690,beauty
+5070,5849,accessories
+5071,3477,footwear
+5072,7032,footwear
+5073,6046,home decor
+5074,6694,sports
+5075,4568,beauty
+5076,5312,accessories
+5077,7917,electronics
+5078,7881,footwear
+5079,6535,fashion
+5080,3084,electronics
+5081,1904,electronics
+5082,2938,electronics
+5083,2894,beauty
+5084,5623,electronics
+5085,3434,sports
+5086,7538,beauty
+5087,7678,sports
+5088,5854,accessories
+5089,5473,beauty
+5090,6321,footwear
+5091,4312,accessories
+5092,5980,fashion
+5093,3372,electronics
+5094,4599,home decor
+5095,1028,accessories
+5096,5230,footwear
+5097,1427,fashion
+5098,6896,electronics
+5099,6453,home decor
+5100,3612,sports
+5101,1790,footwear
+5102,3945,electronics
+5103,3025,electronics
+5104,7133,sports
+5105,5192,fashion
+5106,4221,accessories
+5107,1696,beauty
+5108,7319,fashion
+5109,4862,accessories
+5110,3500,beauty
+5111,1831,sports
+5112,4263,beauty
+5113,6881,beauty
+5114,1405,home decor
+5115,4224,footwear
+5116,3124,sports
+5117,3289,home decor
+5118,7884,beauty
+5119,4132,electronics
+5120,2359,accessories
+5121,1071,fashion
+5122,7492,fashion
+5123,6005,beauty
+5124,7679,sports
+5125,2290,beauty
+5126,6935,accessories
+5127,4240,fashion
+5128,2593,accessories
+5129,3260,fashion
+5130,5404,sports
+5131,4180,sports
+5132,1586,footwear
+5133,2561,footwear
+5134,3597,electronics
+5135,5961,footwear
+5136,7672,electronics
+5137,2523,beauty
+5138,2477,home decor
+5139,5350,electronics
+5140,1368,fashion
+5141,3180,footwear
+5142,7339,home decor
+5143,3599,fashion
+5144,2383,fashion
+5145,4926,fashion
+5146,4482,electronics
+5147,3539,home decor
+5148,2621,sports
+5149,1280,accessories
+5150,6204,accessories
+5151,2450,sports
+5152,2496,footwear
+5153,6464,fashion
+5154,5514,accessories
+5155,5119,electronics
+5156,7162,sports
+5157,7196,electronics
+5158,3390,electronics
+5159,7568,electronics
+5160,2291,sports
+5161,4322,fashion
+5162,3503,footwear
+5163,1430,home decor
+5164,3080,electronics
+5165,3858,accessories
+5166,4819,electronics
+5167,5605,sports
+5168,7049,sports
+5169,3825,beauty
+5170,7020,fashion
+5171,6597,fashion
+5172,2949,footwear
+5173,4659,electronics
+5174,5683,beauty
+5175,3093,footwear
+5176,2907,home decor
+5177,3911,footwear
+5178,3965,footwear
+5179,6310,beauty
+5180,7910,fashion
+5181,1283,fashion
+5182,1835,fashion
+5183,6932,beauty
+5184,1674,footwear
+5185,5364,footwear
+5186,1710,fashion
+5187,1701,accessories
+5188,7743,footwear
+5189,6972,accessories
+5190,7123,accessories
+5191,7270,home decor
+5192,7816,home decor
+5193,6636,accessories
+5194,3212,fashion
+5195,6587,sports
+5196,7237,electronics
+5197,4651,footwear
+5198,6521,accessories
+5199,1200,fashion
+5200,2615,electronics
+5201,1979,beauty
+5202,1854,electronics
+5203,5848,beauty
+5204,3669,home decor
+5205,1049,footwear
+5206,2204,home decor
+5207,5410,home decor
+5208,3453,sports
+5209,2687,beauty
+5210,5745,home decor
+5211,3521,electronics
+5212,2616,fashion
+5213,5703,footwear
+5214,1422,beauty
+5215,5965,electronics
+5216,7805,fashion
+5217,5203,electronics
+5218,7865,home decor
+5219,4474,fashion
+5220,4929,beauty
+5221,6071,sports
+5222,6513,sports
+5223,2990,accessories
+5224,5548,fashion
+5225,1668,footwear
+5226,6723,beauty
+5227,3489,fashion
+5228,7785,home decor
+5229,6791,home decor
+5230,6543,home decor
+5231,6259,footwear
+5232,2307,home decor
+5233,3058,footwear
+5234,1170,electronics
+5235,2879,footwear
+5236,5737,home decor
+5237,4113,sports
+5238,5235,accessories
+5239,7960,accessories
+5240,4182,home decor
+5241,3242,home decor
+5242,2008,electronics
+5243,2524,electronics
+5244,2950,home decor
+5245,3110,fashion
+5246,4481,beauty
+5247,3085,beauty
+5248,1506,footwear
+5249,3645,accessories
+5250,6241,beauty
+5251,5058,beauty
+5252,6655,beauty
+5253,2340,footwear
+5254,6975,electronics
+5255,5928,footwear
+5256,1141,fashion
+5257,7613,electronics
+5258,5168,fashion
+5259,4035,sports
+5260,6716,beauty
+5261,7707,home decor
+5262,6041,home decor
+5263,4519,electronics
+5264,3948,sports
+5265,6897,fashion
+5266,6858,fashion
+5267,5591,home decor
+5268,5748,electronics
+5269,7136,electronics
+5270,5855,home decor
+5271,2068,beauty
+5272,5226,footwear
+5273,7407,home decor
+5274,2024,fashion
+5275,5054,fashion
+5276,4523,fashion
+5277,1980,home decor
+5278,5180,sports
+5279,7052,fashion
+5280,3365,electronics
+5281,3062,home decor
+5282,2530,sports
+5283,4284,accessories
+5284,5922,electronics
+5285,7307,sports
+5286,4997,home decor
+5287,1114,accessories
+5288,3643,beauty
+5289,7015,footwear
+5290,5716,home decor
+5291,6812,fashion
+5292,4040,electronics
+5293,6689,accessories
+5294,7490,footwear
+5295,4640,beauty
+5296,1974,accessories
+5297,5704,beauty
+5298,3226,accessories
+5299,4777,footwear
+5300,4079,fashion
+5301,7737,sports
+5302,5813,electronics
+5303,5060,fashion
+5304,1504,home decor
+5305,1984,footwear
+5306,7194,beauty
+5307,6462,fashion
+5308,5905,home decor
+5309,4682,accessories
+5310,1571,accessories
+5311,2016,accessories
+5312,6197,home decor
+5313,5057,electronics
+5314,4733,beauty
+5315,6533,sports
+5316,1515,home decor
+5317,7364,home decor
+5318,5583,accessories
+5319,4169,home decor
+5320,7223,footwear
+5321,7711,accessories
+5322,1721,fashion
+5323,2298,beauty
+5324,6087,sports
+5325,2241,footwear
+5326,3755,electronics
+5327,3875,home decor
+5328,3920,electronics
+5329,1177,home decor
+5330,6769,electronics
+5331,6681,beauty
+5332,7386,beauty
+5333,6025,beauty
+5334,1383,home decor
+5335,3387,beauty
+5336,6402,electronics
+5337,1270,sports
+5338,7414,electronics
+5339,6291,fashion
+5340,3731,accessories
+5341,7088,home decor
+5342,7467,fashion
+5343,6102,sports
+5344,4369,electronics
+5345,7320,footwear
+5346,3027,electronics
+5347,4988,home decor
+5348,2585,beauty
+5349,6062,home decor
+5350,4948,footwear
+5351,6563,beauty
+5352,4335,sports
+5353,6030,accessories
+5354,4835,accessories
+5355,6475,accessories
+5356,7073,beauty
+5357,5490,fashion
+5358,6489,home decor
+5359,6925,sports
+5360,5931,home decor
+5361,5418,beauty
+5362,3531,fashion
+5363,1022,electronics
+5364,1951,accessories
+5365,7489,beauty
+5366,5380,electronics
+5367,2098,accessories
+5368,1703,accessories
+5369,6767,electronics
+5370,4463,sports
+5371,6084,beauty
+5372,2104,electronics
+5373,5933,beauty
+5374,7047,sports
+5375,6634,electronics
+5376,3672,fashion
+5377,6445,footwear
+5378,6094,sports
+5379,6377,sports
+5380,6284,fashion
+5381,6242,sports
+5382,4918,electronics
+5383,2368,footwear
+5384,2550,accessories
+5385,4468,beauty
+5386,3687,sports
+5387,5465,beauty
+5388,3746,footwear
+5389,5879,electronics
+5390,1924,sports
+5391,3422,accessories
+5392,4773,electronics
+5393,3139,accessories
+5394,3340,fashion
+5395,6052,home decor
+5396,5206,sports
+5397,2301,fashion
+5398,5713,footwear
+5399,4535,footwear
+5400,6434,beauty
+5401,6011,accessories
+5402,7282,electronics
+5403,5880,electronics
+5404,5787,sports
+5405,1695,beauty
+5406,6576,fashion
+5407,3332,footwear
+5408,6040,sports
+5409,2789,accessories
+5410,1698,fashion
+5411,4404,footwear
+5412,5272,beauty
+5413,3728,sports
+5414,7928,home decor
+5415,6818,home decor
+5416,1474,home decor
+5417,4578,fashion
+5418,6976,electronics
+5419,2199,fashion
+5420,6829,electronics
+5421,6544,accessories
+5422,2267,beauty
+5423,1153,sports
+5424,2287,beauty
+5425,1757,fashion
+5426,6035,home decor
+5427,2650,electronics
+5428,1981,accessories
+5429,2538,beauty
+5430,5580,home decor
+5431,4104,footwear
+5432,6517,fashion
+5433,3865,home decor
+5434,4865,accessories
+5435,1201,home decor
+5436,1150,home decor
+5437,3375,accessories
+5438,5229,sports
+5439,5268,beauty
+5440,3939,accessories
+5441,6902,home decor
+5442,2858,fashion
+5443,6260,home decor
+5444,6904,accessories
+5445,2136,accessories
+5446,7659,fashion
+5447,4785,accessories
+5448,7411,fashion
+5449,7416,beauty
+5450,4308,fashion
+5451,4103,electronics
+5452,3279,accessories
+5453,2609,accessories
+5454,6192,accessories
+5455,7245,beauty
+5456,2161,electronics
+5457,4758,sports
+5458,2830,beauty
+5459,4279,fashion
+5460,2447,sports
+5461,6180,footwear
+5462,7857,footwear
+5463,2850,electronics
+5464,7452,home decor
+5465,5759,sports
+5466,6982,fashion
+5467,7247,home decor
+5468,5373,beauty
+5469,1639,home decor
+5470,6044,electronics
+5471,3181,beauty
+5472,4236,electronics
+5473,7873,electronics
+5474,1206,footwear
+5475,7635,home decor
+5476,2078,home decor
+5477,4761,electronics
+5478,4701,footwear
+5479,5047,beauty
+5480,3738,beauty
+5481,1557,sports
+5482,1732,home decor
+5483,1684,footwear
+5484,6768,home decor
+5485,3769,accessories
+5486,1971,fashion
+5487,7107,sports
+5488,2190,electronics
+5489,1039,accessories
+5490,1308,fashion
+5491,3818,electronics
+5492,3189,fashion
+5493,1517,accessories
+5494,7612,home decor
+5495,2653,sports
+5496,4193,electronics
+5497,3798,beauty
+5498,1605,home decor
+5499,2692,accessories
+5500,5751,electronics
+5501,5515,sports
+5502,5618,fashion
+5503,4163,accessories
+5504,6190,footwear
+5505,3266,sports
+5506,7749,beauty
+5507,2926,fashion
+5508,5990,home decor
+5509,5188,beauty
+5510,1403,accessories
+5511,3991,electronics
+5512,6599,electronics
+5513,3388,home decor
+5514,6090,fashion
+5515,4225,footwear
+5516,3750,accessories
+5517,7531,electronics
+5518,7104,accessories
+5519,7973,fashion
+5520,5577,footwear
+5521,1357,accessories
+5522,4775,home decor
+5523,5721,sports
+5524,3465,fashion
+5525,1381,electronics
+5526,4675,home decor
+5527,3409,accessories
+5528,6135,sports
+5529,2343,accessories
+5530,5900,fashion
+5531,4330,sports
+5532,7290,fashion
+5533,4861,accessories
+5534,6388,home decor
+5535,4699,footwear
+5536,4421,accessories
+5537,2792,beauty
+5538,2941,sports
+5539,4189,home decor
+5540,6157,sports
+5541,7897,accessories
+5542,3460,footwear
+5543,1552,accessories
+5544,5709,home decor
+5545,4783,footwear
+5546,3165,electronics
+5547,6954,accessories
+5548,6367,beauty
+5549,2707,fashion
+5550,4653,footwear
+5551,5807,accessories
+5552,6909,home decor
+5553,5534,electronics
+5554,2902,footwear
+5555,3317,electronics
+5556,3705,home decor
+5557,1444,home decor
+5558,1807,beauty
+5559,2529,home decor
+5560,4004,beauty
+5561,6675,sports
+5562,1741,accessories
+5563,5551,home decor
+5564,6160,home decor
+5565,3813,fashion
+5566,2462,fashion
+5567,5939,fashion
+5568,4539,electronics
+5569,5558,beauty
+5570,1313,footwear
+5571,1978,electronics
+5572,6483,fashion
+5573,4419,accessories
+5574,7817,fashion
+5575,5305,beauty
+5576,2973,electronics
+5577,1260,electronics
+5578,6962,fashion
+5579,5071,footwear
+5580,7184,accessories
+5581,5079,accessories
+5582,1618,fashion
+5583,4321,fashion
+5584,1850,sports
+5585,4739,beauty
+5586,1464,accessories
+5587,7504,home decor
+5588,5824,home decor
+5589,2655,sports
+5590,6183,beauty
+5591,2647,footwear
+5592,1324,home decor
+5593,1307,footwear
+5594,3815,sports
+5595,3732,beauty
+5596,2315,beauty
+5597,4793,sports
+5598,1111,fashion
+5599,7495,footwear
+5600,7157,home decor
+5601,2582,home decor
+5602,6320,fashion
+5603,1489,home decor
+5604,6472,beauty
+5605,5034,electronics
+5606,3553,sports
+5607,1968,accessories
+5608,4983,footwear
+5609,2818,sports
+5610,1773,footwear
+5611,2495,sports
+5612,1805,fashion
+5613,5035,accessories
+5614,7434,footwear
+5615,4181,electronics
+5616,7092,beauty
+5617,4257,footwear
+5618,3032,electronics
+5619,7656,electronics
+5620,7714,home decor
+5621,4443,electronics
+5622,7222,electronics
+5623,3398,beauty
+5624,4150,home decor
+5625,3190,fashion
+5626,1728,footwear
+5627,7108,home decor
+5628,6452,fashion
+5629,6497,beauty
+5630,6746,fashion
+5631,3050,electronics
+5632,5390,sports
+5633,6541,beauty
+5634,6143,beauty
+5635,3964,electronics
+5636,1717,accessories
+5637,6717,accessories
+5638,2050,beauty
+5639,2013,footwear
+5640,1697,beauty
+5641,6919,beauty
+5642,1226,accessories
+5643,4579,electronics
+5644,2188,sports
+5645,4678,accessories
+5646,2594,home decor
+5647,6585,beauty
+5648,2234,home decor
+5649,2119,fashion
+5650,2384,electronics
+5651,2665,accessories
+5652,4569,beauty
+5653,3749,beauty
+5654,4097,home decor
+5655,1764,accessories
+5656,6522,accessories
+5657,2633,sports
+5658,6028,fashion
+5659,2467,sports
+5660,4565,beauty
+5661,1938,electronics
+5662,1875,accessories
+5663,6564,electronics
+5664,2604,fashion
+5665,1015,footwear
+5666,5784,sports
+5667,5327,electronics
+5668,1768,fashion
+5669,1048,electronics
+5670,1825,home decor
+5671,4403,home decor
+5672,4844,beauty
+5673,3404,footwear
+5674,7792,beauty
+5675,2614,beauty
+5676,7959,accessories
+5677,3304,fashion
+5678,5254,footwear
+5679,5107,sports
+5680,1016,beauty
+5681,5661,beauty
+5682,6851,sports
+5683,3341,accessories
+5684,3182,fashion
+5685,3724,electronics
+5686,4381,fashion
+5687,5499,footwear
+5688,3502,fashion
+5689,7197,fashion
+5690,1248,electronics
+5691,5831,sports
+5692,5663,footwear
+5693,7564,fashion
+5694,6638,home decor
+5695,4446,sports
+5696,4329,footwear
+5697,3799,beauty
+5698,4964,sports
+5699,7007,beauty
+5700,7021,beauty
+5701,5814,beauty
+5702,3713,electronics
+5703,4095,home decor
+5704,7951,footwear
+5705,2854,home decor
+5706,7437,footwear
+5707,4392,sports
+5708,4441,beauty
+5709,4834,beauty
+5710,6894,footwear
+5711,5488,footwear
+5712,4031,footwear
+5713,4790,fashion
+5714,3867,footwear
+5715,5791,fashion
+5716,4296,footwear
+5717,1928,sports
+5718,3238,accessories
+5719,3752,electronics
+5720,1873,home decor
+5721,3386,electronics
+5722,7520,footwear
+5723,1373,fashion
+5724,7844,accessories
+5725,5586,sports
+5726,4429,fashion
+5727,4370,sports
+5728,5017,footwear
+5729,1559,home decor
+5730,6494,sports
+5731,7229,fashion
+5732,3819,footwear
+5733,1305,home decor
+5734,7899,accessories
+5735,5437,accessories
+5736,1619,footwear
+5737,2150,accessories
+5738,1781,home decor
+5739,2678,fashion
+5740,7744,sports
+5741,4227,footwear
+5742,7050,accessories
+5743,2211,footwear
+5744,2125,beauty
+5745,1542,fashion
+5746,7187,footwear
+5747,1142,fashion
+5748,5907,beauty
+5749,2812,fashion
+5750,6830,home decor
+5751,2362,fashion
+5752,2319,home decor
+5753,4541,beauty
+5754,1363,footwear
+5755,1289,electronics
+5756,7597,home decor
+5757,1348,beauty
+5758,6026,beauty
+5759,4254,electronics
+5760,4130,sports
+5761,2839,electronics
+5762,2625,fashion
+5763,5701,sports
+5764,7758,fashion
+5765,5457,accessories
+5766,1970,sports
+5767,2660,electronics
+5768,4480,footwear
+5769,5805,beauty
+5770,1947,electronics
+5771,4043,electronics
+5772,6237,footwear
+5773,2265,electronics
+5774,3714,beauty
+5775,4888,accessories
+5776,3002,beauty
+5777,2512,beauty
+5778,4543,sports
+5779,3294,accessories
+5780,4358,sports
+5781,6054,fashion
+5782,7662,home decor
+5783,6826,accessories
+5784,4595,sports
+5785,7618,sports
+5786,5156,beauty
+5787,7704,beauty
+5788,5076,home decor
+5789,3591,accessories
+5790,4053,sports
+5791,7081,fashion
+5792,7806,sports
+5793,7790,fashion
+5794,3044,electronics
+5795,4883,home decor
+5796,7335,beauty
+5797,7491,home decor
+5798,7982,electronics
+5799,3149,home decor
+5800,5779,fashion
+5801,7375,accessories
+5802,6345,beauty
+5803,7010,fashion
+5804,2274,fashion
+5805,1178,fashion
+5806,3894,footwear
+5807,1302,sports
+5808,6928,footwear
+5809,4917,sports
+5810,1012,beauty
+5811,2403,footwear
+5812,2372,electronics
+5813,4473,beauty
+5814,3393,accessories
+5815,7595,home decor
+5816,2285,footwear
+5817,7570,beauty
+5818,5270,home decor
+5819,3810,fashion
+5820,6096,beauty
+5821,6727,fashion
+5822,7345,accessories
+5823,3008,footwear
+5824,4307,electronics
+5825,6923,beauty
+5826,1849,fashion
+5827,4455,fashion
+5828,2497,footwear
+5829,1992,sports
+5830,4697,accessories
+5831,7812,electronics
+5832,3930,sports
+5833,1046,beauty
+5834,4532,electronics
+5835,6605,fashion
+5836,2494,home decor
+5837,2100,beauty
+5838,3128,beauty
+5839,3097,footwear
+5840,7004,sports
+5841,7033,home decor
+5842,2176,beauty
+5843,1640,fashion
+5844,2085,footwear
+5845,6031,accessories
+5846,7146,sports
+5847,7128,electronics
+5848,2261,fashion
+5849,3982,sports
+5850,3040,footwear
+5851,3014,beauty
+5852,7483,footwear
+5853,2223,home decor
+5854,7499,fashion
+5855,7212,electronics
+5856,1784,fashion
+5857,4357,fashion
+5858,1901,fashion
+5859,2111,home decor
+5860,1966,sports
+5861,5842,fashion
+5862,7214,footwear
+5863,2731,sports
+5864,3267,accessories
+5865,7608,footwear
+5866,1601,beauty
+5867,4516,beauty
+5868,4879,electronics
+5869,7493,beauty
+5870,4625,sports
+5871,3435,beauty
+5872,6866,accessories
+5873,1254,fashion
+5874,2880,home decor
+5875,5993,footwear
+5876,4074,accessories
+5877,7895,accessories
+5878,5719,fashion
+5879,6193,beauty
+5880,5391,home decor
+5881,3701,sports
+5882,5746,home decor
+5883,7037,fashion
+5884,7606,footwear
+5885,6022,fashion
+5886,1210,footwear
+5887,3356,beauty
+5888,7591,fashion
+5889,1995,home decor
+5890,4395,footwear
+5891,4984,footwear
+5892,1197,fashion
+5893,2212,beauty
+5894,4752,footwear
+5895,1186,sports
+5896,1857,sports
+5897,6495,fashion
+5898,2865,accessories
+5899,6653,beauty
+5900,7634,footwear
+5901,1915,sports
+5902,2638,fashion
+5903,7723,home decor
+5904,2320,accessories
+5905,1019,beauty
+5906,6855,home decor
+5907,6642,footwear
+5908,2252,home decor
+5909,6635,beauty
+5910,7230,sports
+5911,3053,beauty
+5912,3942,electronics
+5913,4700,home decor
+5914,5962,beauty
+5915,4218,electronics
+5916,7569,sports
+5917,3414,footwear
+5918,7298,accessories
+5919,4285,fashion
+5920,3001,home decor
+5921,5988,beauty
+5922,6421,fashion
+5923,2453,home decor
+5924,1380,sports
+5925,4288,home decor
+5926,4791,beauty
+5927,4680,footwear
+5928,5400,accessories
+5929,7998,fashion
+5930,2829,beauty
+5931,6493,beauty
+5932,2599,beauty
+5933,5320,beauty
+5934,2109,home decor
+5935,4231,electronics
+5936,3256,footwear
+5937,4036,accessories
+5938,3733,footwear
+5939,7163,accessories
+5940,7791,electronics
+5941,7383,fashion
+5942,5654,fashion
+5943,2031,footwear
+5944,1643,footwear
+5945,5070,footwear
+5946,3343,beauty
+5947,5333,accessories
+5948,7907,beauty
+5949,2145,beauty
+5950,7099,sports
+5951,2341,beauty
+5952,6735,accessories
+5953,2590,sports
+5954,6122,home decor
+5955,6964,sports
+5956,4732,accessories
+5957,4716,accessories
+5958,4969,beauty
+5959,6174,sports
+5960,1366,home decor
+5961,4372,accessories
+5962,6623,sports
+5963,5940,fashion
+5964,6331,sports
+5965,4161,beauty
+5966,3683,sports
+5967,4976,footwear
+5968,2999,accessories
+5969,1882,beauty
+5970,4436,electronics
+5971,7357,electronics
+5972,2229,accessories
+5973,1888,footwear
+5974,4008,sports
+5975,5983,home decor
+5976,4174,electronics
+5977,7863,beauty
+5978,7479,accessories
+5979,4577,sports
+5980,3650,accessories
+5981,3642,beauty
+5982,7312,sports
+5983,7445,home decor
+5984,6270,home decor
+5985,3431,home decor
+5986,3864,electronics
+5987,1810,accessories
+5988,7803,home decor
+5989,3603,beauty
+5990,2177,sports
+5991,4452,sports
+5992,2313,accessories
+5993,4629,fashion
+5994,6514,fashion
+5995,7131,fashion
+5996,1762,home decor
+5997,4062,electronics
+5998,1550,home decor
+5999,5989,accessories
+6000,5377,beauty
+6001,1014,footwear
+6002,7786,footwear
+6003,2618,home decor
+6004,2334,footwear
+6005,2091,sports
+6006,7443,sports
+6007,4703,sports
+6008,2815,electronics
+6009,2565,electronics
+6010,2876,sports
+6011,5402,home decor
+6012,7451,beauty
+6013,4063,footwear
+6014,5328,accessories
+6015,3315,beauty
+6016,7706,home decor
+6017,5979,accessories
+6018,5728,electronics
+6019,4845,beauty
+6020,4591,footwear
+6021,6222,fashion
+6022,2131,electronics
+6023,3415,accessories
+6024,2749,sports
+6025,1750,electronics
+6026,1658,sports
+6027,3605,footwear
+6028,1512,sports
+6029,7014,beauty
+6030,3307,fashion
+6031,5292,accessories
+6032,6918,home decor
+6033,6692,home decor
+6034,7551,fashion
+6035,5231,sports
+6036,1878,beauty
+6037,7555,home decor
+6038,7304,accessories
+6039,2002,accessories
+6040,6374,beauty
+6041,3653,accessories
+6042,3065,sports
+6043,6322,accessories
+6044,7988,home decor
+6045,5711,accessories
+6046,1229,accessories
+6047,4670,fashion
+6048,4371,home decor
+6049,2302,home decor
+6050,2728,sports
+6051,2967,footwear
+6052,1038,home decor
+6053,5392,footwear
+6054,5604,footwear
+6055,1685,electronics
+6056,6130,footwear
+6057,3972,footwear
+6058,7585,accessories
+6059,6980,sports
+6060,1603,home decor
+6061,2870,accessories
+6062,4635,beauty
+6063,1939,sports
+6064,7102,accessories
+6065,4563,footwear
+6066,7267,beauty
+6067,1615,fashion
+6068,3681,footwear
+6069,4250,home decor
+6070,2793,electronics
+6071,4979,fashion
+6072,1251,home decor
+6073,4346,electronics
+6074,2606,electronics
+6075,7840,accessories
+6076,4623,fashion
+6077,1491,sports
+6078,2814,sports
+6079,4952,home decor
+6080,1841,footwear
+6081,1635,beauty
+6082,6283,home decor
+6083,5288,fashion
+6084,4310,beauty
+6085,3292,home decor
+6086,1239,sports
+6087,1867,beauty
+6088,4944,fashion
+6089,3621,sports
+6090,2306,home decor
+6091,4115,beauty
+6092,2386,footwear
+6093,4445,sports
+6094,5843,home decor
+6095,1734,beauty
+6096,4002,footwear
+6097,7327,home decor
+6098,4479,sports
+6099,4810,electronics
+6100,2958,beauty
+6101,3030,accessories
+6102,2135,beauty
+6103,4339,electronics
+6104,7693,home decor
+6105,4876,footwear
+6106,4467,footwear
+6107,6885,electronics
+6108,3147,beauty
+6109,6611,fashion
+6110,6938,fashion
+6111,1876,beauty
+6112,4857,accessories
+6113,1165,home decor
+6114,6669,sports
+6115,5868,home decor
+6116,6294,home decor
+6117,1651,electronics
+6118,5121,beauty
+6119,2720,home decor
+6120,6876,beauty
+6121,7280,home decor
+6122,2726,beauty
+6123,3832,accessories
+6124,4414,beauty
+6125,1154,sports
+6126,7993,accessories
+6127,7053,electronics
+6128,3342,home decor
+6129,2270,electronics
+6130,3566,footwear
+6131,7752,beauty
+6132,4297,footwear
+6133,1023,electronics
+6134,4722,fashion
+6135,5526,accessories
+6136,6908,accessories
+6137,5920,sports
+6138,4344,beauty
+6139,4309,sports
+6140,2896,beauty
+6141,2506,footwear
+6142,3106,sports
+6143,7031,home decor
+6144,2472,fashion
+6145,2725,accessories
+6146,4600,electronics
+6147,2560,beauty
+6148,2632,accessories
+6149,1198,electronics
+6150,6665,footwear
+6151,1069,home decor
+6152,6815,beauty
+6153,7472,fashion
+6154,5406,fashion
+6155,1626,footwear
+6156,3954,accessories
+6157,7450,electronics
+6158,7346,beauty
+6159,1404,accessories
+6160,2673,electronics
+6161,7818,sports
+6162,7990,accessories
+6163,7901,sports
+6164,2428,footwear
+6165,3495,accessories
+6166,6081,home decor
+6167,7823,electronics
+6168,6347,fashion
+6169,7553,sports
+6170,4361,electronics
+6171,7418,fashion
+6172,7390,footwear
+6173,5602,sports
+6174,4692,sports
+6175,3352,fashion
+6176,3674,accessories
+6177,1774,beauty
+6178,1335,fashion
+6179,2474,beauty
+6180,4306,beauty
+6181,2828,electronics
+6182,2656,electronics
+6183,7300,home decor
+6184,2312,beauty
+6185,3536,electronics
+6186,5008,electronics
+6187,1510,sports
+6188,4513,electronics
+6189,3884,home decor
+6190,2509,accessories
+6191,5774,home decor
+6192,7503,electronics
+6193,4870,fashion
+6194,5684,footwear
+6195,2129,fashion
+6196,3826,footwear
+6197,3374,home decor
+6198,2832,fashion
+6199,1292,accessories
+6200,6210,electronics
+6201,2070,home decor
+6202,3758,home decor
+6203,2834,electronics
+6204,2037,sports
+6205,6871,beauty
+6206,7742,home decor
+6207,5251,sports
+6208,7889,footwear
+6209,5912,home decor
+6210,1220,electronics
+6211,3831,electronics
+6212,7395,fashion
+6213,1242,accessories
+6214,4204,accessories
+6215,4025,sports
+6216,7113,fashion
+6217,4026,fashion
+6218,2021,footwear
+6219,3545,fashion
+6220,1297,beauty
+6221,5031,fashion
+6222,2944,beauty
+6223,3218,footwear
+6224,2690,footwear
+6225,5584,electronics
+6226,1649,home decor
+6227,7470,accessories
+6228,7987,beauty
+6229,7566,sports
+6230,3552,electronics
+6231,6499,fashion
+6232,7875,beauty
+6233,4082,sports
+6234,2578,fashion
+6235,4784,footwear
+6236,2959,fashion
+6237,7380,home decor
+6238,2043,fashion
+6239,3223,sports
+6240,7189,footwear
+6241,1123,footwear
+6242,5346,electronics
+6243,7000,home decor
+6244,1388,home decor
+6245,1481,fashion
+6246,6063,fashion
+6247,5135,electronics
+6248,4437,fashion
+6249,4006,sports
+6250,2377,fashion
+6251,2011,accessories
+6252,4019,home decor
+6253,5161,fashion
+6254,1157,sports
+6255,4717,sports
+6256,7446,beauty
+6257,2684,fashion
+6258,3680,footwear
+6259,2121,footwear
+6260,7523,home decor
+6261,6726,footwear
+6262,5068,footwear
+6263,7338,footwear
+6264,5331,beauty
+6265,1982,footwear
+6266,4808,footwear
+6267,2218,electronics
+6268,1956,footwear
+6269,5487,accessories
+6270,2995,accessories
+6271,4524,electronics
+6272,5549,accessories
+6273,1872,electronics
+6274,5561,sports
+6275,1739,sports
+6276,4145,beauty
+6277,1791,fashion
+6278,6755,accessories
+6279,4938,sports
+6280,5412,footwear
+6281,2737,accessories
+6282,4192,sports
+6283,1390,fashion
+6284,4920,accessories
+6285,1411,footwear
+6286,7277,accessories
+6287,3889,beauty
+6288,4607,beauty
+6289,4824,electronics
+6290,4770,electronics
+6291,3757,accessories
+6292,1129,fashion
+6293,7878,fashion
+6294,4156,sports
+6295,5930,electronics
+6296,3981,sports
+6297,2833,electronics
+6298,1669,footwear
+6299,6392,beauty
+6300,1950,sports
+6301,5620,beauty
+6302,6251,home decor
+6303,6280,electronics
+6304,6883,beauty
+6305,1051,fashion
+6306,7952,accessories
+6307,1816,electronics
+6308,1493,sports
+6309,6873,home decor
+6310,6001,sports
+6311,2207,beauty
+6312,1349,sports
+6313,5830,electronics
+6314,1840,home decor
+6315,5742,accessories
+6316,5812,accessories
+6317,4166,home decor
+6318,2613,accessories
+6319,5765,beauty
+6320,1663,footwear
+6321,6067,fashion
+6322,6942,footwear
+6323,2388,home decor
+6324,7638,home decor
+6325,4244,electronics
+6326,2487,beauty
+6327,1829,accessories
+6328,5029,accessories
+6329,4065,footwear
+6330,3271,electronics
+6331,7468,fashion
+6332,2803,home decor
+6333,5275,electronics
+6334,1994,accessories
+6335,6799,electronics
+6336,3098,home decor
+6337,3777,home decor
+6338,2535,beauty
+6339,5857,sports
+6340,1694,beauty
+6341,7188,beauty
+6342,4960,sports
+6343,5455,electronics
+6344,2564,sports
+6345,1180,accessories
+6346,2248,footwear
+6347,3047,electronics
+6348,4448,sports
+6349,5074,sports
+6350,5795,footwear
+6351,7547,electronics
+6352,5486,beauty
+6353,7639,beauty
+6354,6275,home decor
+6355,5609,footwear
+6356,7747,accessories
+6357,3472,fashion
+6358,3506,fashion
+6359,5485,footwear
+6360,7381,sports
+6361,2132,footwear
+6362,2217,fashion
+6363,2019,accessories
+6364,4829,electronics
+6365,4606,accessories
+6366,3924,fashion
+6367,6580,sports
+6368,7419,sports
+6369,7042,footwear
+6370,1204,accessories
+6371,4927,home decor
+6372,7886,home decor
+6373,4064,accessories
+6374,5479,fashion
+6375,7284,footwear
+6376,5338,fashion
+6377,1279,home decor
+6378,7626,beauty
+6379,2867,beauty
+6380,7872,fashion
+6381,4106,sports
+6382,1323,accessories
+6383,7750,accessories
+6384,6863,footwear
+6385,3249,fashion
+6386,6007,accessories
+6387,6442,sports
+6388,1243,beauty
+6389,7003,beauty
+6390,3474,fashion
+6391,7661,sports
+6392,6083,beauty
+6393,7851,beauty
+6394,6267,electronics
+6395,2224,electronics
+6396,7041,beauty
+6397,6423,fashion
+6398,1400,home decor
+6399,7217,footwear
+6400,5086,beauty
+6401,4958,beauty
+6402,3440,footwear
+6403,3918,footwear
+6404,4982,footwear
+6405,7793,footwear
+6406,6246,home decor
+6407,7813,electronics
+6408,5182,home decor
+6409,4614,footwear
+6410,7557,footwear
+6411,2713,footwear
+6412,3845,footwear
+6413,5283,beauty
+6414,5386,footwear
+6415,7361,electronics
+6416,6253,electronics
+6417,1587,sports
+6418,2975,fashion
+6419,6937,footwear
+6420,1362,beauty
+6421,6540,home decor
+6422,4228,footwear
+6423,7759,fashion
+6424,1869,electronics
+6425,5593,beauty
+6426,4747,footwear
+6427,5365,home decor
+6428,7464,accessories
+6429,1166,home decor
+6430,4869,footwear
+6431,4440,electronics
+6432,6631,electronics
+6433,5786,fashion
+6434,6652,home decor
+6435,7719,electronics
+6436,3541,home decor
+6437,4759,home decor
+6438,1183,electronics
+6439,6712,home decor
+6440,5221,sports
+6441,3909,electronics
+6442,3324,home decor
+6443,6852,fashion
+6444,1632,fashion
+6445,6414,beauty
+6446,1336,fashion
+6447,4049,footwear
+6448,7243,accessories
+6449,5859,fashion
+6450,1516,footwear
+6451,5881,accessories
+6452,5545,sports
+6453,7593,accessories
+6454,7181,sports
+6455,2919,electronics
+6456,1002,sports
+6457,2790,fashion
+6458,7178,electronics
+6459,5169,sports
+6460,2710,fashion
+6461,7811,footwear
+6462,1432,electronics
+6463,7423,fashion
+6464,1916,footwear
+6465,5512,sports
+6466,4534,sports
+6467,2172,fashion
+6468,4142,fashion
+6469,1031,beauty
+6470,5897,accessories
+6471,2432,footwear
+6472,1257,home decor
+6473,7936,fashion
+6474,4101,fashion
+6475,2390,fashion
+6476,5568,sports
+6477,7257,electronics
+6478,7735,home decor
+6479,4977,footwear
+6480,1103,beauty
+6481,2222,accessories
+6482,6139,sports
+6483,1004,electronics
+6484,7170,sports
+6485,7784,home decor
+6486,5307,home decor
+6487,7727,accessories
+6488,6352,accessories
+6489,1785,fashion
+6490,7930,sports
+6491,7829,accessories
+6492,6687,home decor
+6493,5361,beauty
+6494,4235,electronics
+6495,2012,accessories
+6496,6557,electronics
+6497,2872,electronics
+6498,7567,home decor
+6499,3207,electronics
+6500,2378,footwear
+6501,6443,beauty
+6502,4671,fashion
+6503,3380,electronics
+6504,4226,sports
+6505,3804,accessories
+6506,6936,home decor
+6507,1021,sports
+6508,1745,accessories
+6509,2881,fashion
+6510,2154,electronics
+6511,4649,footwear
+6512,7356,accessories
+6513,4933,fashion
+6514,3123,fashion
+6515,3952,beauty
+6516,6994,sports
+6517,1895,sports
+6518,7963,footwear
+6519,5322,sports
+6520,1752,accessories
+6521,7385,home decor
+6522,4669,sports
+6523,2952,electronics
+6524,5353,electronics
+6525,2444,home decor
+6526,3461,home decor
+6527,3202,home decor
+6528,3243,fashion
+6529,1344,electronics
+6530,2082,accessories
+6531,4602,home decor
+6532,3240,beauty
+6533,3635,beauty
+6534,1350,sports
+6535,2344,sports
+6536,2084,accessories
+6537,2513,home decor
+6538,3532,accessories
+6539,6531,electronics
+6540,1320,beauty
+6541,6785,home decor
+6542,7819,fashion
+6543,2840,home decor
+6544,6814,electronics
+6545,5167,electronics
+6546,2061,beauty
+6547,4422,beauty
+6548,5608,fashion
+6549,4849,home decor
+6550,4942,home decor
+6551,4318,fashion
+6552,3457,footwear
+6553,4168,sports
+6554,3571,electronics
+6555,3600,footwear
+6556,1230,footwear
+6557,5285,beauty
+6558,6363,sports
+6559,3564,footwear
+6560,7898,electronics
+6561,7431,fashion
+6562,3335,home decor
+6563,1579,sports
+6564,7308,home decor
+6565,1930,accessories
+6566,6658,accessories
+6567,1642,home decor
+6568,2448,home decor
+6569,1073,footwear
+6570,6429,sports
+6571,1961,electronics
+6572,2646,fashion
+6573,7701,home decor
+6574,2456,accessories
+6575,2736,fashion
+6576,6126,footwear
+6577,2305,home decor
+6578,3134,beauty
+6579,6018,beauty
+6580,4478,electronics
+6581,2855,beauty
+6582,4509,electronics
+6583,6120,electronics
+6584,2773,footwear
+6585,7943,sports
+6586,5829,sports
+6587,1670,accessories
+6588,3737,accessories
+6589,2905,electronics
+6590,4939,footwear
+6591,2076,electronics
+6592,6461,footwear
+6593,4051,accessories
+6594,6889,home decor
+6595,3861,fashion
+6596,1417,fashion
+6597,6519,accessories
+6598,6077,home decor
+6599,3132,fashion
+6600,7675,sports
+6601,2809,electronics
+6602,6626,footwear
+6603,7879,accessories
+6604,7124,home decor
+6605,2067,electronics
+6606,1782,sports
+6607,1761,accessories
+6608,5752,home decor
+6609,4298,sports
+6610,7200,beauty
+6611,3648,sports
+6612,5981,beauty
+6613,5023,fashion
+6614,4813,sports
+6615,5924,fashion
+6616,7781,beauty
+6617,2623,fashion
+6618,5639,fashion
+6619,5300,electronics
+6620,3644,fashion
+6621,3624,electronics
+6622,7447,accessories
+6623,3892,fashion
+6624,2510,accessories
+6625,7342,accessories
+6626,1801,electronics
+6627,5274,fashion
+6628,4427,fashion
+6629,3844,beauty
+6630,4592,home decor
+6631,3846,accessories
+6632,4617,footwear
+6633,1006,footwear
+6634,4799,home decor
+6635,5926,home decor
+6636,4925,accessories
+6637,5472,fashion
+6638,5173,accessories
+6639,3179,electronics
+6640,2748,home decor
+6641,4631,beauty
+6642,4078,beauty
+6643,1436,fashion
+6644,6155,fashion
+6645,3668,footwear
+6646,7387,beauty
+6647,1244,sports
+6648,1317,beauty
+6649,1705,electronics
+6650,5917,electronics
+6651,2552,home decor
+6652,5638,sports
+6653,2040,home decor
+6654,2898,home decor
+6655,5733,accessories
+6656,7620,fashion
+6657,5603,accessories
+6658,4200,electronics
+6659,3344,electronics
+6660,7925,home decor
+6661,2841,electronics
+6662,7317,electronics
+6663,3191,beauty
+6664,3878,accessories
+6665,6450,accessories
+6666,3913,footwear
+6667,1465,home decor
+6668,4949,footwear
+6669,4116,sports
+6670,6106,footwear
+6671,5118,electronics
+6672,4269,fashion
+6673,5817,fashion
+6674,2358,sports
+6675,5241,electronics
+6676,2141,electronics
+6677,6047,accessories
+6678,1217,fashion
+6679,4442,home decor
+6680,3456,home decor
+6681,3023,home decor
+6682,3252,footwear
+6683,3640,accessories
+6684,6719,electronics
+6685,7204,home decor
+6686,1061,beauty
+6687,6480,accessories
+6688,6417,fashion
+6689,2108,accessories
+6690,7370,fashion
+6691,6457,fashion
+6692,5002,electronics
+6693,5257,sports
+6694,7227,footwear
+6695,1042,beauty
+6696,6734,electronics
+6697,7094,home decor
+6698,3734,footwear
+6699,1775,beauty
+6700,3265,home decor
+6701,3224,footwear
+6702,3659,electronics
+6703,3389,sports
+6704,6080,beauty
+6705,1711,footwear
+6706,3958,beauty
+6707,6945,home decor
+6708,5992,beauty
+6709,2797,footwear
+6710,3609,home decor
+6711,7177,footwear
+6712,2293,footwear
+6713,3808,beauty
+6714,1648,accessories
+6715,2147,home decor
+6716,5053,beauty
+6717,4337,beauty
+6718,1329,sports
+6719,7633,home decor
+6720,1299,footwear
+6721,3384,sports
+6722,2101,accessories
+6723,1729,accessories
+6724,6024,home decor
+6725,2769,fashion
+6726,6350,electronics
+6727,6581,fashion
+6728,6872,electronics
+6729,4683,home decor
+6730,3064,fashion
+6731,6887,footwear
+6732,1778,accessories
+6733,2569,beauty
+6734,6069,electronics
+6735,1314,footwear
+6736,4691,footwear
+6737,2417,sports
+6738,1653,beauty
+6739,6339,fashion
+6740,2977,beauty
+6741,4483,beauty
+6742,7623,home decor
+6743,3995,sports
+6744,3856,home decor
+6745,6609,accessories
+6746,6469,accessories
+6747,2886,sports
+6748,7435,electronics
+6749,7147,beauty
+6750,1156,footwear
+6751,4197,accessories
+6752,4654,fashion
+6753,5697,accessories
+6754,2269,accessories
+6755,3928,footwear
+6756,7509,accessories
+6757,2777,sports
+6758,3382,fashion
+6759,5675,fashion
+6760,5059,beauty
+6761,1450,fashion
+6762,6707,home decor
+6763,7560,home decor
+6764,7868,footwear
+6765,4538,accessories
+6766,5906,accessories
+6767,4125,accessories
+6768,1501,footwear
+6769,6857,fashion
+6770,6282,fashion
+6771,4985,fashion
+6772,2260,sports
+6773,3378,footwear
+6774,5898,electronics
+6775,4390,footwear
+6776,2451,home decor
+6777,7764,beauty
+6778,5504,home decor
+6779,1096,electronics
+6780,1905,footwear
+6781,6787,electronics
+6782,4048,accessories
+6783,7306,electronics
+6784,2785,home decor
+6785,3620,sports
+6786,4848,footwear
+6787,3122,accessories
+6788,1803,footwear
+6789,5956,fashion
+6790,1245,home decor
+6791,1435,beauty
+6792,7800,accessories
+6793,3408,home decor
+6794,3426,electronics
+6795,3203,fashion
+6796,6189,accessories
+6797,2139,footwear
+6798,3109,home decor
+6799,6559,home decor
+6800,7924,fashion
+6801,7976,footwear
+6802,4706,beauty
+6803,3788,accessories
+6804,2635,footwear
+6805,6082,home decor
+6806,7256,sports
+6807,6879,home decor
+6808,7415,home decor
+6809,6173,sports
+6810,3280,electronics
+6811,4903,accessories
+6812,1592,beauty
+6813,5667,electronics
+6814,3967,electronics
+6815,2090,beauty
+6816,1707,accessories
+6817,1135,home decor
+6818,5999,electronics
+6819,2128,home decor
+6820,6288,home decor
+6821,1779,home decor
+6822,1889,accessories
+6823,1281,accessories
+6824,3197,fashion
+6825,4632,electronics
+6826,5522,fashion
+6827,6795,sports
+6828,7095,accessories
+6829,3029,accessories
+6830,2369,accessories
+6831,7529,accessories
+6832,7176,beauty
+6833,6892,footwear
+6834,5186,accessories
+6835,5776,accessories
+6836,2240,fashion
+6837,2991,fashion
+6838,2183,electronics
+6839,3480,footwear
+6840,5977,accessories
+6841,3923,fashion
+6842,3471,sports
+6843,5115,electronics
+6844,5901,electronics
+6845,5355,footwear
+6846,1282,fashion
+6847,4615,home decor
+6848,1972,accessories
+6849,1433,fashion
+6850,5754,footwear
+6851,4749,beauty
+6852,2628,fashion
+6853,1789,electronics
+6854,1690,electronics
+6855,7846,beauty
+6856,2054,home decor
+6857,5452,footwear
+6858,2756,electronics
+6859,3543,beauty
+6860,7001,fashion
+6861,3159,electronics
+6862,6520,sports
+6863,5571,home decor
+6864,2486,electronics
+6865,3320,accessories
+6866,6089,fashion
+6867,1311,accessories
+6868,3176,accessories
+6869,1985,home decor
+6870,2542,home decor
+6871,5194,fashion
+6872,1395,accessories
+6873,1575,fashion
+6874,2210,fashion
+6875,5803,accessories
+6876,6114,sports
+6877,2766,home decor
+6878,1699,electronics
+6879,4508,fashion
+6880,6211,sports
+6881,1886,footwear
+6882,5319,fashion
+6883,7776,home decor
+6884,6448,accessories
+6885,2033,home decor
+6886,1203,sports
+6887,4902,sports
+6888,2900,fashion
+6889,6285,sports
+6890,3943,home decor
+6891,6048,home decor
+6892,1672,fashion
+6893,7941,accessories
+6894,3527,electronics
+6895,7627,beauty
+6896,7424,footwear
+6897,6394,sports
+6898,5978,footwear
+6899,1963,accessories
+6900,4347,footwear
+6901,3003,fashion
+6902,1287,fashion
+6903,3178,home decor
+6904,2857,electronics
+6905,2227,beauty
+6906,3534,electronics
+6907,5219,accessories
+6908,7646,beauty
+6909,1513,beauty
+6910,6362,accessories
+6911,6934,beauty
+6912,7966,accessories
+6913,7615,electronics
+6914,2415,sports
+6915,7137,accessories
+6916,5001,fashion
+6917,5973,electronics
+6918,5065,beauty
+6919,5265,fashion
+6920,5851,accessories
+6921,5239,fashion
+6922,3148,fashion
+6923,3963,accessories
+6924,6239,footwear
+6925,3960,sports
+6926,3432,home decor
+6927,5222,beauty
+6928,2336,beauty
+6929,3183,footwear
+6930,6501,electronics
+6931,6254,fashion
+6932,6567,fashion
+6933,3589,footwear
+6934,7093,footwear
+6935,3518,footwear
+6936,6110,home decor
+6937,4304,beauty
+6938,4702,footwear
+6939,5103,beauty
+6940,2956,electronics
+6941,7954,footwear
+6942,1008,footwear
+6943,5372,beauty
+6944,3862,beauty
+6945,3947,beauty
+6946,3548,accessories
+6947,4270,fashion
+6948,7598,fashion
+6949,4528,beauty
+6950,6438,beauty
+6951,2215,accessories
+6952,5809,beauty
+6953,7909,footwear
+6954,1922,home decor
+6955,7995,home decor
+6956,6015,footwear
+6957,7103,beauty
+6958,5635,fashion
+6959,1508,accessories
+6960,4489,electronics
+6961,1328,beauty
+6962,5714,home decor
+6963,5902,sports
+6964,2648,accessories
+6965,7860,footwear
+6966,5801,electronics
+6967,1440,sports
+6968,7262,home decor
+6969,6399,sports
+6970,2849,fashion
+6971,3100,sports
+6972,6760,fashion
+6973,1573,fashion
+6974,5606,beauty
+6975,7343,sports
+6976,3678,footwear
+6977,3682,sports
+6978,4908,accessories
+6979,6245,electronics
+6980,3213,beauty
+6981,2331,sports
+6982,4765,fashion
+6983,7853,accessories
+6984,2554,accessories
+6985,6055,electronics
+6986,4974,fashion
+6987,1949,fashion
+6988,2874,fashion
+6989,1952,beauty
+6990,2120,electronics
+6991,5162,fashion
+6992,6552,home decor
+6993,6023,sports
+6994,7804,beauty
+6995,6788,footwear
+6996,3712,accessories
+6997,5019,home decor

@@ -1,0 +1,6 @@
+,payment_method_id,payment_method
+0,1,credit card
+1,2,paypal
+2,3,apple pay
+3,4,debit card
+4,5,cash on delivery
